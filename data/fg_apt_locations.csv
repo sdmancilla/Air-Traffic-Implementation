@@ -1,0 +1,938 @@
+longitud,latitud,iata_code,airport_name,region,country,dep_amount,pass_amount
+-26.6967835,141.049092,AAB,Arrabury Airport,"Arrabury, Queensland",Australia,1,No info
+57.0864352,9.868075521300991,AAL,Aalborg Airport,Aalborg,Denmark,14,2778
+9.4298739,-64.47086334549915,AAO,Anaco Airport,Anaco,Venezuela,5,3
+56.151811949999995,10.250511600000019,AAR,Aarhus Airport,Aarhus,Denmark,3,18
+53.741006299999995,91.38466471327489,ABA,Abakan Airport,"Abakan, Khakassia",Russia,1,No info
+5.264928299999999,-3.925957338659794,ABJ,Port Bouet Airport,Abidjan,Côte d'Ivoire,25,2808
+57.2006008,-2.2038568,ABZ,Aberdeen Airport,"Aberdeen, Scotland",United Kingdom,25,3895
+5.60428935,-0.167967625794569,ACC,Kotoka International Airport,Accra,Ghana,13235,2275345
+47.4880387,9.5525806,ACH,St. Gallen Altenrhein Airport,Altenrhein,Switzerland,2,6
+8.97958075,38.79727968929066,ADD,Bole International Airport,Addis Ababa,Ethiopia,11657,2581805
+-34.947240449999995,138.5330688373241,ADL,Adelaide Airport,"Adelaide, South Australia",Australia,27,10
+-34.5594401,-58.414399011867516,AEP,Jorge Newbery Airpark,Buenos Aires,Argentina,10,239
+43.44397145,39.94009276010438,AER,Adler-Sochi International Airport,"Sochi, Krasnodar",Russia,23,2991
+65.65698725,-18.070607134573716,AEY,Akureyri Airport,Akureyri,Iceland,9,903
+30.3284136,-9.409092283353985,AGA,Al Massira Airport,Agadir,Morocco,12,1
+21.7008112,-102.31747865736617,AGU,Lic. Jesús Terán Peredo International Airport,Aguascalientes,Mexico,48473,2069898
+40.63087935,8.288375274221512,AHO,Fertilia Airport (Alghero Airport),"Alghero, Sardinia",Italy,3,132
+-10.98281225,-37.07602527743482,AJU,Santa Maria Airport,"Aracaju, Sergipe",Brazil,5,510
+43.6686785,142.45138689279045,AKJ,Asahikawa Airport,"Asahikawa, Hokkaido",Japan,27,5874
+-37.00889695,174.7912138412501,AKL,Auckland Airport,Mangere,New Zealand,97848,24490727
+7.2473989,5.3016281387638555,AKR,Akure Airport,Akure,Nigeria,2,10
+43.355686250000005,77.04258378940835,ALA,Almaty International Airport,Almaty,Kazakhstan,21,44
+38.284417700000006,-0.5657529081106044,ALC,El Altet Airport,Alicante,Spain,10,363
+36.7013497,3.21090318335027,ALG,Houari Boumediene Airport,Algiers,Algeria,28,2
+-1.9170984500000001,-54.72274925876043,ALT,Alenquer Airport,"Alenquer, Pará",Brazil,48,1845
+23.0759129,72.63051649394484,AMD,Sardar Vallabhbhai Patel International Airport,Ahmedabad,India,295,55441
+-4.1015945,141.67032568802875,AMF,Ama Airport,Ama,Papua New Guinea,5,361
+31.72380235,36.007236991673565,AMM,Queen Alia International Airport,Amman,Jordan,21527,3898626
+52.32697895,4.741505200022974,AMS,Amsterdam Airport Schiphol,Haarlemmermeer,Netherlands,628107,126092797
+-23.452375699999997,-70.43973434352753,ANF,Cerro Moreno International Airport,Antofagasta,Chile,214,4811
+51.1881429,4.463473861141249,ANR,Antwerp International Airport,Antwerp,Belgium,53,163
+-13.709079,-73.35160446460571,ANS,Andahuaylas Airport,Andahuaylas,Peru,7,No info
+43.61716225,13.364858030368092,AOI,Falconara Airport,Ancona,Italy,3,No info
+40.7340525,140.689686,AOJ,Aomori Airport,Aomori,Japan,151,23268
+29.60999645,35.01893698710137,AQJ,King Hussein International Airport,Aqaba,Jordan,3,No info
+-16.3423105,-71.56895878830176,AQP,Rodriguez Ballon International Airport,Arequipa,Peru,9,No info
+64.599209,40.71860470831429,ARH,Talagi Airport,Arkhangelsk,Russia,4,1328
+59.6467921,17.937044334194475,ARN,Stockholm Arlanda Airport,Stockholm,Sweden,72187,12939293
+37.9837541,58.36266734224667,ASB,Ashgabat Airport,Ashgabat,Turkmenistan,1,No info
+10.02259785,34.57871305512564,ASO,Asosa Airport,Asosa,Ethiopia,3,No info
+-23.807330200000003,133.89880396690052,ASP,Alice Springs Airport,"Alice Springs, Northern Territory",Australia,4,No info
+31.70858515,74.80044741056383,ATQ,Sri Guru Ram Dass Jee International Airport,Amritsar,India,3,225
+12.50213495,-70.01412635032392,AUA,Queen Beatrix International Airport,Oranjestad,Aruba,264173,32917805
+24.44088915,54.65040371277427,AUH,Abu Dhabi International Airport,Abu Dhabi,United Arab Emirates,32822,8212956
+-9.9274741,149.39037940175524,AUP,Agaun Airport,Agaun,Papua New Guinea,1,No info
+46.03136845,12.602047622830732,AVB,Aviano Air Base,"Aviano, Pordenone",Italy,21,647
+43.906355899999994,4.9020164096546655,AVN,Avignon - Caumont Airport,Avignon,France,13,50
+-38.0415747,144.47225146948307,AVV,Avalon Airport,"Avalon, Victoria",Australia,16,No info
+18.2054832,-63.05608188224072,AXA,Wallblake Airport,The Valley,Anguilla,42605,811521
+4.4505551,-75.76648964124684,AXM,El Edén International Airport,Armenia,Colombia,2517,332563
+39.614616,140.21935028858,AXT,Akita Airport,Akita,Japan,132,21660
+36.89994245,30.798191449837162,AYT,Antalya Airport,Antalya,Turkey,4,1163
+4.5728352,-72.9754852,BAC,Barranca de Upia Airport,"Barranca de Upia, Meta",Colombia,1,No info
+16.375076,120.61927080757144,BAG,Loakan Airport,Baguio City,Philippines,20,No info
+26.2697012,50.632907147264675,BAH,Bahrain International Airport,Al Muharraq,Bahrain,5063,95310
+9.1611043,-83.33057663536533,BAI,Buenos Aires Airport,Buenos Aires,Costa Rica,21,12
+-0.9810895,-62.91797136711435,BAZ,Barcelos Airport,"Barcelos, Amazonas",Brazil,2,8
+20.2547298,85.8163539,BBI,Biju Patnaik Airport,Bhubaneswar,India,25,No info
+17.63610345,-61.8272654170342,BBQ,Codrington Airport,"Codrington, Barbuda",Antigua and Barbuda,1,No info
+16.01391785,-61.74331841857014,BBR,Baillif Airport,Basse-Terre,Guadeloupe,3,45
+51.3228059,-0.8405417,BBS,Blackbushe Airport,"Yateley, Hampshire, England",United Kingdom,1,No info
+41.29694395,2.0790473629813215,BCN,Barcelona El Prat Airport,El Prat de Llobregat,Spain,66288,13019819
+26.53298565,54.82975543497214,BDH,Bandar Lengeh Airport,Bandar Lengeh,Iran,1,325
+8.0151654,-2.763268015586016,BDK,Soko Airport,Bondoukou,Côte d'Ivoire,2,No info
+40.661605,17.948577553183746,BDS,Casale Airport,Brindisi,Italy,5,6
+69.05482565,18.540665381702304,BDU,Bardufoss Airport,Bardufoss,Norway,1,5
+44.81827305,20.302369607310077,BEG,Belgrade Nikola Tesla Airport,Belgrade,Serbia,1671,311237
+-1.3798578,-48.47964610194296,BEL,Val de Cães International Airport,"Belém, Pará",Brazil,3608,428938
+32.1011324,20.27332790949631,BEN,Benina International Airport,Benghazi,Libya,4,2
+48.4476928,-4.417362633595747,BES,Brest Bretagne Airport,Brest,France,18,1949
+54.652424499999995,-6.229076154679657,BFS,Belfast International Airport,"Belfast, Northern Ireland",United Kingdom,10542,1823612
+4.3959119,18.523283337103088,BGF,Bangui M'Poko International Airport,Bangui,Central African Republic,3,No info
+60.29619625,5.219901375015233,BGO,Bergen Flesland Airport,Bergen,Norway,489,72512
+33.267680600000006,44.22892433264592,BGW,Baghdad International Airport,Baghdad,Iraq,1,No info
+-31.390997249999998,-54.112838163262815,BGX,Comandante Gustavo Kraemer Airport,"Bagé, Rio Grande do Sul",Brazil,1,4
+45.670959249999996,9.69876347135455,BGY,Orio al Serio Airport,Bergamo,Italy,18,No info
+54.620329350000006,-5.869819381345107,BHD,George Best Belfast City Airport,"Belfast, Northern Ireland",United Kingdom,31,89
+39.77495605,64.48141101391582,BHK,Bukhara Airport,Bukhara,Uzbekistan,4,1239
+-33.4106212,149.6556801810951,BHS,Bathurst Airport,"Bathurst, New South Wales",Australia,5,785
+52.45417725,-1.7438787522634338,BHX,Birmingham Airport,"Birmingham, England",United Kingdom,29067,4507376
+42.55466885,9.481946623405268,BIA,Bastia - Poretta Airport,"Bastia, Corsica",France,1,1
+-1.191866,136.10646293282963,BIK,Frans Kaisiepo Airport,Biak,Indonesia,1989,274796
+25.700565949999998,-79.27221880862729,BIM,South Bimini Airport,Bimini,Bahamas,14133,190190
+6.5277801,21.9894009,BIV,Bria Airport,Bria,Central African Republic,16,25
+-3.32424825,29.320540457965556,BJM,Bujumbura International Airport,Bujumbura,Burundi,1,No info
+5.9336120999999995,116.0497893067351,BKI,Kota Kinabalu International Airport,Kota Kinabalu,Malaysia,4,3
+12.5353304,-7.9487650400229874,BKO,Senou International Airport,Bamako,Mali,11,14
+10.107164950000001,-64.68773382715652,BLA,Generál José Antonio Anzoátegui International Airport,"Barcelona, Anzoátegui",Venezuela,7944,735277
+60.421658550000004,15.51485581335173,BLE,Borlänge Airport (Dala Airport),"Borlänge, Dalarna",Sweden,1,1
+2.65147355,113.766122,BLG,Belaga Airport,"Belaga, Sarawak",Malaysia,500,1986
+55.740736999999996,9.160391884322324,BLL,Billund Airport,Billund,Denmark,207,32839
+-7.0605602,-76.5821991,BLP,Huallaga Airport,Bellavista,Peru,2,1
+44.5344306,11.288457445265177,BLQ,"Bologna-Borgo Panigale ""Guglielmo Marconi"" Airport",Bologna,Italy,472,74177
+13.196697,77.70758655918868,BLR,Bengaluru International Airport,Bangalore,India,32,1089
+59.3546192,17.944740459281977,BMA,Stockholm-Bromma Airport,Stockholm,Sweden,120,382
+7.3730724,-60.4858302,BMJ,Baramita Airport,Baramita,Guyana,41,3285
+-27.3874138,153.1214764569645,BNE,Brisbane Airport,"Brisbane, Queensland",Australia,22121,5746425
+-5.80498905,12.996642085164739,BOA,Boma Airport,Boma,Democratic Republic of the Congo,5,No info
+44.82017155,-0.7079993899736636,BOD,Bordeaux - Mérignac Airport,Bordeaux / Mérignac,France,270,21206
+4.7020946,-74.14771320401294,BOG,El Dorado International Airport,Bogotá,Colombia,451483,35692418
+42.57022095,27.516987282032524,BOJ,Burgas Airport,Burgas,Bulgaria,24,No info
+19.0901312,72.86370318520977,BOM,Chhatrapati Shivaji International Airport,Mumbai,India,19996,4504311
+67.264386,14.34774894210406,BOO,Bodø Airport,Bodø,Norway,4,97
+-16.07668335,136.3031001483854,BOX,Borroloola Airport,"Borroloola, Northern Territory",Australia,2,100
+15.7290416,121.49957353578233,BQA,Baler Airport,"Baler, Aurora",Philippines,189,No info
+51.33050255,0.03235996813950516,BQH,London Biggin Hill Airport,"Biggin Hill / London, England",United Kingdom,129,458
+53.0453419,8.789641688895548,BRE,Bremen Airport,Bremen,Germany,7,432
+-30.0387318,145.95259251608758,BRK,Bourke Airport,"Bourke, New South Wales",Australia,1,No info
+10.04359305,-69.3561637968819,BRM,Jacinto Lara International Airport,Barquisimeto,Venezuela,965,54421
+46.912213449999996,7.498597416883485,BRN,Bern Airport,Bern,Switzerland,33,103
+49.15248475,16.690134401898796,BRQ,Brno-Turany Airport,Brno,Czech Republic,21,No info
+51.38296995,-2.7186237715618864,BRS,Bristol Airport,"Bristol, England",United Kingdom,4084,603423
+50.9010343,4.478626970832147,BRU,Brussels Airport (Zaventem Airport),Brussels,Belgium,212681,28283327
+18.25182335,-71.12337032088251,BRX,Maria Montez International Airport,Barahona,Dominican Republic,98,1567
+11.2778277,49.142991331751006,BSA,Bender Qassim International Airport,Boosaaso,Somalia,3,No info
+-15.87174755,-47.91172169662855,BSB,Brasília International Airport,"Brasília, Distrito Federal",Brazil,17754,2464324
+20.4514501,121.9807799315435,BSO,Basco Airport,"Basco, Batanes",Philippines,2,2
+30.5450472,47.66991130425801,BSR,Basrah International Airport,Basrah,Iraq,3,No info
+47.43527295,19.2535105675693,BUD,Budapest Ferenc Liszt International Airport,Budapest,Hungary,13487,1966118
+49.4543222,2.11166864195493,BVA,Paris Beauvais Tillé Airport,Beauvais,France,100,5197
+2.8467389,-60.69088998008712,BVB,Boa Vista International Airport,"Boa Vista, Roraima",Brazil,32,1047
+46.9744444,8.3969444,BXO,Buochs Airport,Buochs,Switzerland,1,3
+38.0753421,-7.9242041,BYJ,Beja Airport,Beja,Portugal,2,63
+17.5392339,-88.30483122697225,BZE,Philip S. W. Goldson International Airport,Ladyville,Belize,133592,12411453
+-4.2509559,15.253938331362257,BZV,Maya Maya Airport,Brazzaville,Republic of the Congo,1,No info
+51.7511241,-1.5793933009655508,BZZ,RAF Brize Norton,"Oxfordshire, England",United Kingdom,331,10363
+39.250583,9.057312580961453,CAG,Cagliari Airport,Cagliari,Italy,6,15
+30.1140504,31.424546074834208,CAI,Cairo International Airport,Cairo,Egypt,21114,4567489
+-20.00638975,-63.52727344590175,CAM,Camiri Airport,Camiri,Bolivia,1,116
+23.3931854,113.3015079267467,CAN,Guangzhou Baiyun International Airport,"Guangzhou, Guangdong",China,27511,6289027
+19.7263503,-72.20026715140995,CAP,Cap-Haïtien International Airport,Cap-Haïtien,Haiti,4155,422433
+-17.4210652,-66.17653330327698,CBB,Jorge Wilstermann International Airport,Cochabamba,Bolivia,129,11673
+52.210733,0.1759497,CBG,Cambridge Airport,"Cambridge, England",United Kingdom,9,28
+-19.4788726,140.9273389,CBY,Canobie Airport,"Canobie, Queensland",Australia,1,No info
+-36.77378175,-73.06006863839588,CCP,Carriel Sur International Airport,"Concepción, Bío Bío Region",Chile,48,5583
+10.310328,123.97927764356774,CEB,Mactan-Cebu International Airport,Lapu-Lapu City,Philippines,487,59831
+55.3015326,61.5128637881277,CEK,Chelyabinsk Balandino Airport,Chelyabinsk,Russia,6,1
+27.39138415,-109.83122548553126,CEN,Ciudad Obregón International Airport,"Ciudad Obregón, Sonora",Mexico,78,575
+43.5479587,6.959813401362742,CEQ,Cannes - Mandelieu Airport,Cannes,France,10,18
+-22.923360950000003,-42.076586063102596,CFB,Cabo Frio International Airport,"Cabo Frio, Rio de Janeiro",Brazil,383,2
+45.7850077,3.160475215249633,CFE,Clermont-Ferrand Auvergne Airport,Clermont-Ferrand,France,1,6
+22.14945185,-80.41432509221373,CFG,Jaime González Airport,Cienfuegos,Cuba,6330,408405
+49.175937899999994,-0.4550446561903926,CFR,Caen – Carpiquet Airport,Caen,France,3,30
+-15.6594936,-56.10937964178432,CGB,Marechal Rondon Airport,"Cuiabá, Mato Grosso",Brazil,14,1489
+-6.1797874,106.7923764,CGK,Soekarno–Hatta International Airport,Jakarta,Indonesia,1013,193874
+50.86780115,7.138887378368084,CGN,Cologne Bonn Airport (Köln/Bonn - Konrad Adenauer),"Cologne, North Rhine-Westphalia",Germany,59082,672966
+34.5270534,113.84801423633316,CGO,Zhengzhou Xinzheng International Airport,"Zhengzhou, Henan",China,2441,8
+43.99639585,125.69151731902005,CGQ,Changchun Longjia International Airport,"Changchun, Jilin",China,12,1065
+-20.471576849999998,-54.68224625125994,CGR,Campo Grande International Airport,"Campo Grande, Mato Grosso do Sul",Brazil,19,2263
+-43.4847958,172.53575429898345,CHC,Christchurch International Airport,Christchurch,New Zealand,327,78112
+35.529643300000004,24.148005725125465,CHQ,Chania International Airport,Chania,Greece,6,71
+46.863835,1.7307688558339007,CHR,"Châteauroux-Déols Marcel Dassault"" Airport",Châteauroux / Déols,France,86,270
+41.79954695,12.591271133206927,CIA,Rome Ciampino Airport (Giovan Battista Pastine Airport),Rome,Italy,155,9674
+-6.789894,-79.82690272407297,CIX,Capitán FAP José A. Quiñones Gonzales International Airport,Chiclayo,Peru,95,11063
+36.99482985,14.60748814771559,CIY,Comiso Airport,Comiso,Italy,1,7
+31.638493750000002,-106.42801011006628,CJS,Abraham González International Airport,"Ciudad Juárez, Chihuahua",Mexico,1187,23894
+33.50707105,126.4916441196128,CJU,Jeju International Airport,Jeju,South Korea,298,5689
+29.72606975,106.64983063307892,CKG,Chongqing Jiangbei International Airport,Chongqing,China,1001,172973
+9.5740949,-13.6230415,CKY,Gbessia Airport,Conakry,Guinea,16,350
+-28.03324135,145.6239117,CMA,Cunnamulla Airport,"Cunnamulla, Queensland",Australia,7,25
+18.6517384,-91.80046272071905,CME,Ciudad del Carmen International Airport,"Ciudad del Carmen, Campeche",Mexico,10408,286463
+45.6352153,5.881803393116886,CMF,Chambéry-Savoie Airport,Chambéry,France,8,39
+33.3692757,-7.5870182450098955,CMN,Mohammed V International Airport,Casablanca,Morocco,18170,3662621
+-30.982210549999998,148.37584984377042,CNB,Coonamble Airport,"Coonamble, New South Wales",Australia,2,17
+-19.63339785,-43.96836942393943,CNF,Tancredo Neves International Airport,"Confins, Minas Gerais",Brazil,9984,1497859
+-16.877789200000002,145.75154952736838,CNS,Cairns International Airport,"Cairns, Queensland",Australia,6907,781678
+18.76684265,98.96487808920725,CNX,Chiang Mai International Airport,Chiang Mai,Thailand,1,3
+6.3577513,2.385905079697595,COO,Cadjehoun Airport,Cotonou,Benin,6,328
+19.8153631,-90.50191293261459,CPE,Ing. Alberto Acuña Ongay International Airport,"Campeche, Campeche",Mexico,8,368
+-27.2988389,-70.4145621,CPO,Chamonate Airport,"Copiapó, Atacama Region",Chile,2,No info
+-22.860043249999997,-47.10842181566554,CPQ,Campo dos Amarais Airport,"Campinas, São Paulo",Brazil,90,No info
+-33.97184585,18.602112520148317,CPT,Cape Town International Airport,Cape Town,South Africa,3598,852300
+-29.524299,148.5768224,CRB,Collarenebri Airport,"Collarenebri, New South Wales",Australia,2,No info
+4.75869645,-75.95544075547247,CRC,Santa Ana Airport,Cartago,Colombia,15,5
+50.463637250000005,4.466173283859401,CRL,Brussels South Charleroi Airport,"Charleroi, Wallonia",Belgium,4,164
+-17.6518823,-39.25183226563685,CRQ,Caravelas Airport,"Caravelas, Bahia",Brazil,17,190
+-29.874159,-61.9274901,CRR,Ceres Airport,"Ceres, Santa Fe",Argentina,7,11
+38.99735655,17.079721192856304,CRV,Crotone Airport,Crotone,Italy,1,136
+-19.14730665,-51.67574485156041,CSS,Cassilândia Airport,"Cassilândia, Mato Grosso do Sul",Brazil,237,22887
+28.190666049999997,113.21991433924589,CSX,Changsha Huanghua International Airport,"Changsha, Hunan",China,1251,145528
+37.467242600000006,15.067568274467547,CTA,Catania–Fontanarossa Airport,"Catania, Sicily",Italy,19,500
+10.441642850000001,-75.51305749492116,CTG,Rafael Núñez International Airport,Cartagena,Colombia,36133,3839562
+18.50736655,-88.33391304736077,CTM,Chetumal International Airport,"Chetumal, Quintana Roo",Mexico,8,635
+30.554776699999998,103.9479446811554,CTU,Chengdu Shuangliu International Airport,"Chengdu, Sichuan",China,3244,555109
+44.54739375,7.623336248505572,CUF,Levaldigi Airport,Cuneo,Italy,1,5
+24.76450365,-107.47833897947221,CUL,Federal de Bachigualato International Airport,"Culiacán, Sinaloa",Mexico,9295,515903
+21.0423977,-86.8719133,CUN,Cancún International Airport,"Cancún, Quintana Roo",Mexico,1186662,150177939
+-38.9387235,-69.2717925,CUT,Cutral Có Airport,"Cutral Có, Neuquén",Argentina,1,No info
+28.70242285,-105.95886315342986,CUU,General Roberto Fierro Villalobos International Airport,"Chihuahua, Chihuahua",Mexico,61180,1298478
+45.397101,6.633762365254487,CVF,Courchevel Aerodrome,Courchevel,France,29,No info
+-24.8805185,113.6720020426639,CVQ,Carnarvon Airport,"Carnarvon, Western Australia",Australia,2,No info
+52.37005905,-1.4812022553400643,CVT,Coventry Airport,"Coventry, West Midlands, England",United Kingdom,12,2
+-25.53281285,-49.16736187564199,CWB,Afonso Pena International Airport,"Curitiba, Paraná",Brazil,2699,121328
+51.39850525,-3.339210332510528,CWL,Cardiff Airport,"Cardiff, Wales",United Kingdom,2144,564801
+23.459325550000003,120.39371622493724,CYI,Chiayi Airport,Chiayi,Taiwan,2,4
+16.930542799999998,121.75222675737851,CYZ,Cauayan Airport,"Cauayan City, Isabela",Philippines,2,No info
+20.641705350000002,-88.4483560052779,CZA,Kaua International Airport,"Chichén Itzá, Yucatán",Mexico,3,166
+20.52296195,-86.92943828095508,CZM,Cozumel International Airport,"Cozumel, Quintana Roo",Mexico,88747,9656422
+23.8426391,90.4057215428484,DAC,Shahjalal International Airport,Dhaka,Bangladesh,88,10781
+16.0425792,108.19716127833769,DAD,Da Nang International Airport,Da Nang,Vietnam,10,458
+-6.8741937,39.20752396159325,DAR,Julius Nyerere International Airport,Dar es Salaam,Tanzania,1,No info
+-9.0867605,143.2079998419926,DAU,Daru Airport,"Daru, Western Province",Papua New Guinea,1,No info
+42.56149335,18.26433626257242,DBV,Dubrovnik Airport,"Dubrovnik, Dubrovnik-Neretva County",Croatia,121,18338
+15.33694985,-61.39215996192858,DCF,Canefield Airport,Canefield,Dominica,384,No info
+47.4885144,21.611386886200965,DEB,Debrecen Airport,"Debrecen, Hajdú-Bihar",Hungary,1,222
+28.5551678,77.08473847979485,DEL,Indira Gandhi International Airport,Delhi,India,34410,8146208
+24.12694795,-104.52871221086414,DGO,General Guadalupe Victoria International Airport,"Durango, Durango",Mexico,12044,766991
+9.3340538,123.30198574210306,DGT,Sibulan (Dumaguete) Airport,"Sibulan, Negros Oriental",Philippines,1,No info
+26.2588758,50.148375378619676,DHA,Dhahran International Airport,Dhahran,Saudi Arabia,86,No info
+47.26619305,5.088719823533332,DIJ,Dijon-Bourgogne Airport,Dijon,France,5,23
+14.73702885,-17.482709371575325,DKR,Léopold Sédar Senghor International Airport,Dakar,Senegal,20039,3481500
+4.01357,9.716386661669063,DLA,Douala Airport,Douala,Cameroon,4,No info
+38.96415155,121.53917650785446,DLC,Dalian Zhoushuizi International Airport,"Dalian, Liaoning",China,17,1794
+55.40912105,37.904166212415895,DME,Domodedovo International Airport,Moscow,Russia,8253,1339509
+26.467396649999998,49.79887844079486,DMM,King Fahd International Airport,Dammam,Saudi Arabia,12,No info
+26.3555999,127.7675,DNA,Kadena Air Base,Okinawa Prefecture,Japan,2064,12755
+56.4526716,-3.026040420149899,DND,Dundee Airport,"Dundee, Scotland",United Kingdom,1,No info
+25.273952350000002,51.6066279995255,DOH,Hamad International Airport,Doha,Qatar,60896,13437799
+15.5470393,-61.2966339,DOM,Melville Hall Airport,Melville Hall,Dominica,22891,671228
+-8.7458582,115.16733897840365,DPS,Ngurah Rai International Airport,"Denpasar, Bali",Indonesia,7374,1032405
+-17.3719837,123.66251856898089,DRB,Derby Airport,"Derby, Western Australia",Australia,1,No info
+51.134299299999995,13.769480779988587,DRS,Dresden Airport,Dresden,Germany,12,3
+-12.41190185,130.88362011674445,DRW,Darwin International Airport,"Darwin, Northern Territory",Australia,35,124
+53.4807874,-1.010822424237201,DSA,Robin Hood Airport Doncaster Sheffield,"Doncaster, England",United Kingdom,142,12061
+53.4288026,-6.247592522077657,DUB,Dublin Airport,Dublin,Ireland,166008,34764146
+-45.9277448,170.20045427891455,DUD,Dunedin Airport,"Dunedin, Otago",New Zealand,2,2
+51.2869035,6.761736665024513,DUS,Düsseldorf International Airport,"Düsseldorf, North Rhine-Westphalia",Germany,88906,16561916
+7.124879699999999,125.64345755531545,DVO,Francisco Bangoy International Airport,Davao City,Philippines,13,No info
+25.2521281,55.36571154271837,DXB,Dubai International Airport,Dubai,United Arab Emirates,108674,28568155
+64.73627164999999,177.7358336928592,DYR,Ugolny Airport,Anadyr,Russia,1011,9436
+38.54557415,68.82363701984585,DYU,Dushanbe Airport,Dushanbe,Tajikistan,3,60
+-33.3602823,-56.49727453102808,DZO,Santa Bernardina International Airport,"Durazno, Durazno",Uruguay,1,No info
+0.044802,32.4429895,EBB,Entebbe International Airport,Entebbe,Uganda,7,No info
+36.23784135,43.9489017061083,EBL,Erbil International Airport,"Erbil, Kurdistan",Iraq,1,10
+55.950128899999996,-3.3595079855289756,EDI,Edinburgh Airport,Edinburgh,United Kingdom,24984,3533028
+65.28288914999999,-14.40198938402052,EGS,Egilsstaðir Airport,Egilsstaðir,Iceland,4,454
+51.449830000000006,5.373710920240573,EIN,Eindhoven Airport,Eindhoven,Netherlands,48,2755
+7.0245652,-73.80772980032407,EJA,Yarigüies Airport,Barrancabermeja,Colombia,1,No info
+52.828086549999995,-1.332669481847069,EMA,East Midlands Airport,"Castle Donington, Leicestershire",United Kingdom,24482,218918
+-23.5694249,148.17632214869155,EMD,Emerald Airport,"Emerald, Queensland",Australia,3,16
+6.2200225499999995,-75.58904797741991,EOH,Olaya Herrera Airport,Medellín,Colombia,1,8
+50.9792725,10.95864662008392,ERF,Erfurt Airport,Erfurt,Germany,10,25
+48.9892826,104.1457671,ERT,Erdenet Airport,Erdenet,Mongolia,550,No info
+31.796946849999998,-116.60295519140334,ESE,Ensenada Airport,"Ensenada, Baja California",Mexico,126,11
+48.978364850000006,6.2437694381861775,ETZ,Metz-Nancy-Lorraine Airport,Lorraine,France,4,276
+68.49033025,16.69630495853246,EVE,"Harstad/Narvik Airport, Evenes",Evenes,Norway,22,503
+40.1493974,44.4018985198437,EVN,Zvartnots International Airport,Yerevan,Armenia,20,6
+49.03057015,1.2222300055757063,EVX,Évreux-Fauville Air Base,Évreux / Fauville,France,14,No info
+50.73119295,-3.4168295860334865,EXT,Exeter International Airport,Exeter,United Kingdom,51,10454
+5.3201424,-72.38447809054335,EYP,El Alcaraván Airport,Yopal,Colombia,24,No info
+-34.81681415,-58.54742335052262,EZE,Ministro Pistarini International Airport,Ezeiza,Argentina,180118,31747438
+51.2786335,-0.7704595,FAB,Farnborough Airport,Farnborough,United Kingdom,907,3284
+58.10070645,6.633034671983411,FAN,Lista Airport,Farsund,Norway,2,No info
+37.017459599999995,-7.973911065722614,FAO,Faro Airport,Faro,Portugal,58,6153
+53.7721471,8.662276556603832,FCN,Fliegerhorst Nordholz,Nordholz,Germany,1,4
+41.8144309,12.226901204880779,FCO,Leonardo da Vinci–Fiumicino Airport,Fiumicino,Italy,210992,44338777
+14.5906832,-61.00559445393026,FDF,Martinique Aimé Césaire International Airport,Le Lamentin / Fort de France,Martinique,22961,944427
+33.929115949999996,-4.979095413023916,FEZ,Fes-Saïss Airport,Fes,Morocco,6,375
+51.685383200000004,-1.7813921945514295,FFD,RAF Fairford,"Fairford, England",United Kingdom,7,49
+-13.8495609,-171.73900401758772,FGI,Fagali'i Airport,Apia,Samoa,77401,853240
+1.5894336,-75.56474579631328,FLA,Gustavo Artunduaga Paredes Airport,"Florencia, Caquetá",Colombia,4,91
+-27.670113450000002,-48.54468648648172,FLN,Hercílio Luz International Airport,"Florianópolis, Santa Catarina",Brazil,18,1532
+47.9892386,10.235409335315072,FMM,Allgäu Airport,"Memmingen, Bavaria",Germany,1,5
+52.13422065,7.682959395054385,FMO,Münster Osnabrück International Airport,"Greven, North Rhine-Westphalia",Germany,7,11
+8.616696000000001,-13.198092117373065,FNA,Lungi International Airport,Freetown,Sierra Leone,9,220
+32.69817005,-16.77389415043028,FNC,Madeira Airport,"Funchal, Madeira",Portugal,8,986
+39.2295753,125.67704274664212,FNJ,Pyongyang Sunan International Airport,Pyongyang,North Korea,2,16
+25.934525450000002,119.66617231883538,FOC,Fuzhou Changle International Airport,"Fuzhou, Fujian",China,971,233336
+-3.7762585,-38.53549233925898,FOR,Pinto Martins International Airport,"Fortaleza, Ceará",Brazil,3033,468250
+50.0530018,8.5703726,FRA,Frankfurt Airport,Frankfurt,Germany,843464,174820916
+41.50326675,9.098326639079088,FSC,Sud Corse Airport,"Figari, Corsica",France,9,24
+-50.28083645,-72.05064458669506,FTE,Comandante Armando Tola International Airport,"El Calafate, Santa Cruz Province",Argentina,1,4
+33.7307163,9.91434898577769,GAE,Gabès - Matmata International Airport,Gabès,Tunisia,1,No info
+19.292621150000002,-81.35854363791051,GCM,Owen Roberts International Airport,Georgetown,Cayman Islands,241982,20886292
+59.9147712,150.72149352389195,GDX,Sokol Airport,Magadan,Russia,1464,74216
+-28.28341965,-54.165611958794074,GEL,Sepé Tiaraju Airport,"Santo Ângelo, Rio Grande do Sul",Brazil,13,2758
+32.3857188,3.794306470528227,GHA,Noumérat – Moufdi Zakaria Airport,Ghardaia,Algeria,2,No info
+25.27918445,-76.32368939425517,GHB,Governor's Harbour Airport,"Governor's Harbour, Eleuthera",Bahamas,13068,263464
+36.15157405,-5.347921386651571,GIB,Gibraltar Airport (North Front Airport),Gibraltar,Gibraltar,6,20
+8.653068600000001,-83.18107346615636,GLF,Golfito Airport,Golfito,Costa Rica,3,12
+3.6290273,-70.3240514,GMC,Guerima Airport,Guerima,Colombia,2,124
+45.362376850000004,5.329980724010622,GNB,Grenoble-Isère Airport,Grenoble,France,4,143
+44.4127072,8.843503285615387,GOA,Cristoforo Colombo Airport,Genoa,Italy,108,14093
+56.229519749999994,43.78400637227456,GOJ,Strigino Airport,Nizhny Novgorod,Russia,4,4
+-1.66486355,29.238111563658414,GOM,Goma Airport,Goma,Democratic Republic of the Congo,4,No info
+57.662414749999996,12.287763001236742,GOT,Gothenburg-Landvetter Airport,Gothenburg,Sweden,3518,62770
+2.5708431,-77.89779547305525,GPI,Guapi Airport,Guapi,Colombia,61,402
+41.904494650000004,2.762426044162633,GRO,Girona-Costa Brava Airport,Girona,Spain,7,918
+53.1214959,6.581723234492909,GRQ,Groningen Airport Eelde,Groningen / Eelde,Netherlands,1,2
+-23.43779495,-46.481320528800595,GRU,Guarulhos International Airport,"Guarulhos, São Paulo",Brazil,337764,61403386
+46.98874805,15.440023285611247,GRZ,Graz Airport (Thalerhof Airport),Graz,Austria,84,No info
+14.58331705,-90.52716040808703,GUA,La Aurora International Airport,Guatemala City,Guatemala,322198,30193357
+46.23781635,6.108121245519259,GVA,Cointrin International Airport,Geneva,Switzerland,45223,6993318
+34.819082699999996,102.62235479262483,GXH,Gannan Xiahe Airport,"Xiahe, Gansu",China,2,127
+-10.88955245,-65.37866474597536,GYA,Guayaramerín Airport,Guayaramerín,Bolivia,13,No info
+-2.1579326500000002,-79.88330125961107,GYE,José Joaquín de Olmedo International Airport,Santiago de Guayaquil,Ecuador,106044,10972984
+27.969312350000003,-110.9236394108865,GYM,General José María Yáñez International Airport,"Guaymas, Sonora",Mexico,15761,678870
+-16.634240650000002,-49.2155620047253,GYN,Santa Genoveva Airport,"Goiânia, Goiás",Brazil,9,1570
+52.46144075,9.687236575826585,HAJ,Hannover Airport,"Hanover, Lower Saxony",Germany,151,9460
+19.9442567,110.45927325175722,HAK,Haikou Meilan International Airport,"Haikou, Hainan",China,1,77
+53.63636215,9.994550134684175,HAM,Hamburg Airport (Fuhlsbüttel Airport),Hamburg / Fuhlsbüttel,Germany,14982,2101632
+21.2190339,105.8044969796485,HAN,Noi Bai International Airport,Hanoi,Vietnam,120,336
+22.987384849999998,-82.41424753295806,HAV,José Martí International Airport,Havana,Cuba,119976,11996989
+6.929020449999999,100.3948145217058,HDY,Hat Yai International Airport,"Hat Yai, Songkhla Province",Thailand,10,No info
+34.2065784,62.22776940067165,HEA,Herat Airport,Herat,Afghanistan,3,4
+60.32135905,24.947206800038444,HEL,Helsinki Airport,Helsinki / Vantaa,Finland,29832,6517319
+40.850898099999995,111.81798726025258,HET,Hohhot Baita International Airport,"Hohhot, Inner Mongolia",China,2,205
+30.2368729,120.42912444938366,HGH,Hangzhou Xiaoshan International Airport,Hangzhou,China,2419,340113
+9.3872859,-5.555740886468527,HGO,Korhogo Airport,Korhogo,Côte d'Ivoire,10,3233
+49.944633350000004,7.261210336785306,HHN,Frankfurt-Hahn Airport,Rhineland-Palatinate,Germany,7467,10724
+8.11013195,98.30581527719204,HKT,Phuket International Airport,Phuket,Thailand,1,1
+31.6753963,6.141752805006766,HME,Oued Irara Airport,Hassi Messaoud,Algeria,2,No info
+29.09210995,-111.05463682353957,HMO,General Ignacio Pesqueira Garcia International Airport,"Hermosillo, Sonora",Mexico,70274,3031465
+20.7878278,-76.32076563085234,HOG,Frank País Airport,Holguín,Cuba,12224,1067458
+38.52036765,-28.716209171173396,HOR,Horta Airport,"Horta, Azores",Portugal,1,No info
+45.62212125,126.24525735616052,HRB,Harbin Taiping International Airport,"Harbin, Heilongjiang",China,186,22180
+-17.9332616,31.090709006942333,HRE,Harare International Airport,Harare,Zimbabwe,1,No info
+24.97474285,113.42687985254095,HSC,Shaoguan Airport,"Shaoguan, Guangdong",China,6,No info
+6.1555427,-71.7605307,HTZ,Hato Corozal Airport,Hato Corozal,Colombia,2,No info
+15.3165595,-91.5054069391998,HUG,Huehuetenango Airport,"Huehuetenango, Huehuetenango",Guatemala,2,152
+15.7759827,-96.25869871122916,HUX,Huatulco International Airport,"Huatulco (Bahías de Huatulco), Oaxaca",Mexico,8157,668891
+53.5713963,-0.35346073234607067,HUY,Humberside Airport,North Lincolnshire,United Kingdom,10,1043
+-14.6292429,47.7577163,HVA,Analalava Airport,Analalava,Madagascar,2,295
+38.87294785,1.370372414235323,IBZ,Ibiza Airport,Ibiza,Spain,33,181
+37.4634169,126.44164409450852,ICN,Incheon International Airport,Incheon,South Korea,504173,78856744
+50.406730350000004,30.444460230081724,IEV,Kiev International Airport,Kiev,Ukraine,50,3381
+-25.736028150000003,-54.47470721141072,IGR,Cataratas del Iguazú International Airport,"Puerto Iguazú, Misiones",Argentina,3,202
+48.713641249999995,11.535868767571744,IGS,Ingolstadt Manching Airport,Ingolstadt,Germany,3,13
+-25.5930616,-54.49060873125,IGU,Foz do Iguaçu International Airport,"Foz do Iguaçu, Paraná",Brazil,209,937
+38.3211525,106.38861654513931,INC,Yinchuan Airport (Hedong Airport),"Yinchuan, Ningxia",China,31,7
+19.561833749999998,5.750431435930796,INF,In Guezzam Airport,In Guezzam,Algeria,1,No info
+-0.54887245,166.92074283910955,INU,Nauru International Airport,Yaren,Nauru,343,11163
+57.5400214,-4.0636739,INV,Inverness Airport,"Inverness, Scotland",United Kingdom,14,84
+39.697841600000004,20.820293435868088,IOA,Ioannina National Airport,Ioannina,Greece,1,2
+-27.164671900000002,-109.4213269955195,IPC,Mataveri International Airport,Easter Island,Chile,2,No info
+7.785657,122.60140194737215,IPE,Ipil Airport,"Ipil, Zamboanga Sibugay",Philippines,1,No info
+-3.7858610500000003,-73.30374850021246,IQT,Crnl. FAP Francisco Secada Vignetta International Airport,"Iquitos, Loreto",Peru,1290,130454
+-19.0804765,-169.92138016169685,IUE,Hanan International Airport,Alofi,Niue,41,52
+56.941138,40.938972708101915,IWA,Yuzhny Airport,Ivanovo,Russia,924,5248
+35.41314345,132.88780550678308,IZO,Izumo Airport,"Izumo, Shimane",Japan,31,3459
+-12.6583004,132.8930054,JAB,Jabiru Airport,"Jabiru, Northern Territory",Australia,1,No info
+26.8281087,75.8059454340161,JAI,Jaipur Airport (Sanganer Airport),Jaipur / Sanganer,India,1,193
+18.242455999999997,-72.51849150803471,JAK,Jacmel Airport,Jacmel,Haiti,28,No info
+-20.6752401,141.7237191924738,JCK,Julia Creek Airport,"Julia Creek, Queensland",Australia,9,No info
+21.6834474,39.16363712388176,JED,King Abdulaziz International Airport,Jeddah,Saudi Arabia,14945,2753225
+11.54800385,43.15864050716333,JIB,Ambouli Airport,Djibouti,Djibouti,8,No info
+38.3421243,26.140171285583204,JKH,Chios Island National Airport,Chios Island,Greece,1,11
+37.43499285,25.347326478108187,JMK,Mykonos Island National Airport,Mykonos Island,Greece,16,92
+60.14195145,-45.23309426067608,JNN,Nanortalik Heliport,Nanortalik,Greenland,2,304
+-7.148930699999999,-34.95030583440195,JPA,Presidente Castro Pinto International Airport,"João Pessoa, Paraíba",Brazil,6,999
+36.399662250000006,25.476708914676557,JTR,Santorini Airport,"Santorini, Thira",Greece,4,30
+-15.4675198,-70.15719993301872,JUL,Inca Manco Capac Airport,Juliaca,Peru,1,2
+-16.517941,28.888200702488827,KAB,Kariba Airport,Kariba,Zimbabwe,6,No info
+5.1773786,-59.488911622468095,KAI,Kaieteur Airport,Kaieteur,Guyana,1,No info
+12.0468517,8.521322889378638,KAN,Mallam Aminu Kano International Airport,Kano,Nigeria,1,17
+34.566688400000004,69.20650065196745,KBL,Kabul International Airport,Kabul,Afghanistan,6,No info
+-6.0826257,26.9176713,KBO,Kabalo Airport,Kabalo,Democratic Republic of the Congo,2,121
+50.3401779,30.891557297991227,KBP,Boryspil International Airport,Kiev,Ukraine,11279,2120431
+1.4882398499999998,110.35175975877235,KCH,Kuching International Airport,"Kuching, Sarawak",Malaysia,1,No info
+31.505839549999997,65.8421901219367,KDH,Kandahar International Airport,Kandahar,Afghanistan,26,No info
+63.98486065,-22.626598187703223,KEF,Keflavík International Airport,Keflavík,Iceland,126834,19012008
+7.89635595,-11.17400539707163,KEN,Kenema Airport,Kenema,Sierra Leone,1,1
+-35.71409045,137.5230169675114,KGC,Kingscote Airport,"Kingscote, South Australia",Australia,2,3
+22.5750247,120.35186186510414,KHH,Kaohsiung International Airport,Kaohsiung,Taiwan,1044,81417
+28.8616845,115.90823277913566,KHN,Nanchang Changbei International Airport,"Nanchang, Jiangxi",China,67,5365
+48.528096,135.18291320418953,KHV,Khabarovsk Novy Airport,Khabarovsk,Russia,5866,82780
+37.9555294,139.118527,KIJ,Niigata Airport,Niigata,Japan,4298,432260
+35.4657208,44.35642,KIK,Kirkuk Airport,Kirkuk,Iraq,45,16105
+-17.4011944,124.35550023528222,KIM,Kimberley Airport,Kimberley,South Africa,1,No info
+17.93556065,-76.78098090118962,KIN,Norman Manley International Airport,Kingston,Jamaica,229634,23844930
+52.180909650000004,-9.525779717512439,KIR,Kerry Airport,"Tralee, County Kerry",Ireland,8,264
+34.43420455,135.2225230169576,KIX,Kansai International Airport,Osaka,Japan,269344,46882164
+50.2018781,12.913358570496666,KLV,Karlovy Vary Airport,Karlovy Vary,Czech Republic,1,4
+37.068318950000005,22.025095209751395,KLX,Kalamata Airport,Kalamata,Greece,6,20
+-7.9632784999999995,145.77134686530968,KMA,Kerema Airport,Kerema,Papua New Guinea,2,No info
+-7.6495727,145.95832771261757,KMF,Kamina Airport,Kamina,Papua New Guinea,1,198
+25.10710645,102.93841345267796,KMG,Kunming Changshui International Airport,"Kunming, Yunnan",China,2,No info
+31.876688,131.44801903631105,KMI,Miyazaki Airport,"Miyazaki, Miyazaki Prefecture",Japan,56,10889
+32.8362322,130.85543996230052,KMJ,Kumamoto Airport,"Mashiki, Kumamoto Prefecture",Japan,72,17492
+-9.77093795,15.456842705242192,KNP,Capanda Airport,Capanda,Angola,3,No info
+31.803187,130.718951,KOJ,Kagoshima Airport,Kagoshima,Japan,250,10001
+63.71924745,23.140373320489292,KOK,Kokkola-Pietarsaari Airport,Kokkola / Jakobstad,Finland,1,2
+50.078255299999995,19.78625376760332,KRK,John Paul II International Airport (Kraków Airport),Kraków / Balice,Poland,5169,960238
+56.311227349999996,9.123758915387072,KRP,Karup Airport,Karup,Denmark,4,343
+5.35674455,162.95809189251776,KSA,Kosrae International Airport,Kosrae,Federated States of Micronesia,370,1961
+9.1608546,-10.1245813,KSI,Kissidougou Airport,Kissidougou,Guinea,2,92
+0.97257645,34.95890481081758,KTL,Kitale Airport,Kitale,Kenya,14,23
+27.6939119,85.3582197389141,KTM,Tribhuvan International Airport,Kathmandu,Nepal,1,No info
+17.98903215,-76.8251459214969,KTP,Tinson Pen Aerodrome,"Kingston, Jamaica",Jamaica,2,17
+-14.519028899999999,132.38012915072966,KTR,Tindal Airport,"Katherine, Northern Territory",Australia,1,99
+67.6954569,24.8518905,KTT,Kittilä Airport,Kittilä,Finland,1,5
+50.4702416,19.0734962,KTW,Katowice Airport (Pyrzowice Airport),Katowice / Pyrzowice,Poland,12,2023
+53.50575105,50.15699388903002,KUF,Kurumoch Airport (Samara Airport),Samara,Russia,2,No info
+2.74476355,101.7066224803332,KUL,Kuala Lumpur International Airport,Sepang,Malaysia,321,33770
+54.9646207,24.088128663481704,KUN,Kaunas International Airport,Kaunas,Lithuania,7,No info
+63.00506195,27.798881769455257,KUO,Kuopio Airport,Kuopio / Siilinjärvi,Finland,1,205
+35.90720495,126.62206860714505,KUV,Gunsan Airport,Gunsan,South Korea,76,666
+8.7206583,167.7315599,KWA,Bucholz Army Airfield,Kwajalein,Marshall Islands,1920,83216
+26.5409091,106.80220583289761,KWE,Guiyang Longdongbao International Airport,"Guiyang, Guizhou",China,1,5
+24.07535145,-110.36338367786718,LAP,Manuel Márquez de León International Airport,"La Paz, Baja California Sur",Mexico,12304,760589
+-13.26170655,-43.409181138408584,LAZ,Bom Jesus da Lapa Airport,"Bom Jesus da Lapa, Bahia",Brazil,29,No info
+53.804942999999994,10.712610058244511,LBC,Lübeck Airport (Blankensee Airport),"Lübeck, Schleswig-Holstein",Germany,1,1
+48.956250600000004,2.4440069854314497,LBG,Paris - Le Bourget Airport,Le Bourget,France,1538,6381
+-16.467181099999998,179.33916291168302,LBS,Labasa Airport,Labasa,Fiji,2,No info
+0.46194650000000004,9.411292096346298,LBV,Libreville International Airport,Libreville,Gabon,14,6
+13.85592045,120.10584364695308,LBX,Lubang Airport,"Lubang, Occidental Mindoro",Philippines,394,15191
+34.87033995,33.618511556449484,LCA,Larnaca International Airport,Larnaca,Cyprus,490,85618
+40.24047975,18.1375237109655,LCC,Lecce Galatina Airport,Lecce,Italy,2,2
+43.300259499999996,-8.379608542189715,LCG,A Coruña Airport,A Coruña,Spain,23,95
+51.5042655,0.05490240133037683,LCY,London City Airport,"London, England",United Kingdom,4355,101570
+-23.331887549999998,-51.1346212481326,LDB,Londrina Airport,"Londrina, Paraná",Brazil,3,352
+5.03246825,118.32430708721583,LDU,Lahad Datu Airport,"Lahad Datu, Sabah",Malaysia,1,54
+55.039795749999996,-7.155902754752817,LDY,City of Derry Airport (Londonderry Eglinton Airport),"Derry, Northern Ireland",United Kingdom,4,21
+59.801698599999995,30.267601113109503,LED,Pulkovo Airport,Saint Petersburg,Russia,770,75324
+6.1669392,1.2505146,LFW,Lomé-Tokoin Airport,Lomé,Togo,7,427
+50.638391299999995,5.441062920403833,LGG,Liège Airport (Bierset Airport),"Liège, Wallonia",Belgium,14968,6631
+13.152191250000001,123.72995933477162,LGP,Legazpi Airport,"Legazpi City, Albay",Philippines,1,No info
+0.0919515,-76.87013302295729,LGQ,Lago Agrio Airport,Nueva Loja,Ecuador,5,1064
+51.1541082,-0.18231164991272042,LGW,London Gatwick Airport,"London, England",United Kingdom,450597,102037880
+31.51939965,74.40099966094238,LHE,Allama Iqbal International Airport,Lahore,Pakistan,945,205714
+51.46773895,-0.4587800741571181,LHR,London Heathrow Airport,"London, England",United Kingdom,1559856,328296029
+-17.2355995,129.8820038,LIB,Limbunya Airport,"Limbunya, Northern Territory",Australia,19,2105
+50.5681339,3.105251611858831,LIL,Lille Lesquin International Airport,Lille,France,190,22890
+-12.02178305,-77.11123822674789,LIM,Jorge Chávez International Airport,Callao,Peru,243626,34178939
+45.44420495,9.277832922158506,LIN,Linate Airport,Milan,Italy,169,2838
+10.595176200000001,-85.53862961331669,LIR,Daniel Oduber Quirós International Airport,Liberia,Costa Rica,75300,9072973
+38.7809542,-9.131900592219496,LIS,Lisbon Portela Airport,Lisbon,Portugal,68756,11645289
+52.405066250000004,0.5565455219128717,LKZ,RAF Lakenheath,"Lakenheath, England",United Kingdom,26,No info
+65.54783875000001,22.116712311166633,LLA,Luleå Airport (Kallax Airport),Luleå,Sweden,12,2
+-13.7886661,33.78211495665334,LLW,Kamuzu International Airport,Lilongwe,Malawi,1,No info
+25.685933050000003,-109.07865676369234,LMM,Federal del Valle del Fuerte International Airport,"Los Mochis, Sinaloa",Mexico,1479,57719
+57.707474250000004,-3.3273354586099613,LMO,RAF Lossiemouth,"Lossiemouth, Scotland",United Kingdom,9,993
+26.95762505,-101.46552938644342,LOV,Venustiano Carranza International Airport,"Monclova, Coahuila",Mexico,2603,32865
+-16.512220550000002,-68.19026097558837,LPB,El Alto International Airport,La Paz,Bolivia,11607,1332264
+53.335702600000005,-2.8496139978869777,LPL,Liverpool John Lennon Airport,"Liverpool, England",United Kingdom,169,19465
+11.77786265,-70.14756704091192,LSP,Josefa Camejo International Airport,Las Piedras,Venezuela,548,No info
+3.37211225,-59.79003670007906,LTM,Lethem Airport,Lethem,Guyana,10,1297
+51.87814035,-0.3664573292436831,LTN,London Luton Airport,"Luton, England",United Kingdom,4208,318035
+25.98507355,-111.3497035096648,LTO,Loreto International Airport,"Loreto, Baja California Sur",Mexico,18653,1253424
+46.0015752,8.9063847,LUG,Lugano Airport,"Lugano, Agno",Switzerland,17,10
+-15.3301972,28.453200826570317,LUN,Lusaka International Airport,Lusaka,Zambia,13,774
+49.6255389,6.201123840955248,LUX,Luxembourg Findel Airport,Findel,Luxembourg,46894,42919
+49.81057505,23.957443729537545,LWO,Lviv Danylo Halytskyi International Airport,Lviv,Ukraine,22,1022
+51.5045983,-1.9946528727952568,LYE,RAF Lyneham,"Wiltshire, England",United Kingdom,22,595
+45.72819335,4.9427041133278555,LYN,Lyon Bron Airport,Lyon,France,10,50
+40.4948384,-3.5740806206811313,MAD,Madrid–Barajas Airport,Madrid,Spain,248117,51232536
+-5.20855725,145.7882759984853,MAG,Madang Airport,Madang,Papua New Guinea,31,1809
+39.86298645,4.220607231805899,MAH,Mahon Airport,Menorca,Spain,14,2889
+-14.4895298,35.26242832983716,MAI,Mangochi Airport,Mangochi,Malawi,18,No info
+25.76121775,-97.52118771072375,MAM,GENERAL Servando Canales International Airport,"Matamoros, Tamaulipas",Mexico,7,741
+53.350342049999995,-2.280369252664295,MAN,Manchester Airport,Manchester,United Kingdom,187727,40599549
+-3.03553825,-60.04575303314657,MAO,Eduardo Gomes International Airport,"Manaus, Amazonas",Brazil,36133,2183036
+10.557807100000002,-71.7254962784662,MAR,La Chinita International Airport,Maracaibo,Venezuela,43223,3543086
+-4.0265226,39.600720714576624,MBA,Moi International Airport,Mombasa,Kenya,5,26
+-8.918906750000001,33.462739482986976,MBI,Mbeya Airport,Mbeya,Tanzania,1,No info
+13.2085198,120.60534709448388,MBO,Mamburao Airport,"Mamburao, Occidental Mindoro",Philippines,1,No info
+-3.3699246499999997,-57.724955102848156,MBZ,Maués Airport,"Maués, Amazonas",Brazil,2,No info
+8.4836234,-9.5253541,MCA,Macenta Airport,Macenta,Guinea,24,1956
+0.0505785,-51.07059996039651,MCP,Macapá International Airport,"Macapá, Amapá",Brazil,8,1591
+-9.51084465,-35.7925282592017,MCZ,Zumbi dos Palmares Airport,Maceió,Brazil,15,2980
+1.5435963,124.92255822207105,MDC,Sam Ratulangi International Airport,Manado,Indonesia,399,No info
+21.8254509,-71.800275,MDS,Middle Caicos Airport,Middle Caicos,Turks and Caicos Islands,1,No info
+-22.343171050000002,-41.76577364545359,MEA,Macaé Airport,"Macaé, Rio de Janeiro",Brazil,1,No info
+-37.72660985,144.90131752171806,MEB,Essendon Airport,"Melbourne, Victoria",Australia,29,No info
+-0.94690845,-80.67949990971246,MEC,Eloy Alfaro International Airport,"Manta, Manabí",Ecuador,447,2130
+-37.66695115,144.83349270120272,MEL,Melbourne Airport,"Melbourne, Victoria",Australia,27616,7442918
+44.50240255,3.531054995040395,MEN,Brenoux Airport,Mende,France,4,344
+19.434325299999998,-99.07325169426676,MEX,Mexico City International Airport,Mexico City,Mexico,1649118,149869428
+22.149929,113.58936073979396,MFM,Macau International Airport,Taipa,Macau,1373,6017
+-44.67391965,167.92485953395476,MFN,Milford Sound Airport,Milford Sound,New Zealand,1,7
+12.141385,-86.16885964895833,MGA,Augusto C.Sandino International Airport,Managua,Nicaragua,131997,12354659
+-13.2607484,-64.0607643,MGD,Magdalena Airport,Magdalena,Bolivia,1,No info
+-23.4761138,-52.014684538049366,MGF,Maringá - Sílvio NAME Júnior Regional Airport,"Maringá, Paraná",Brazil,9,No info
+51.23034165,6.503771986783741,MGL,Düsseldorf-Mönchengladbach Airport,Mönchengladbach,Germany,5,No info
+9.28576035,-74.84884615173567,MGN,Baracoa Airport,"Magangué, Bolívar",Colombia,4,4
+2.0140883,45.304041242825505,MGQ,Aden Adde International Airport,Mogadishu,Somalia,1,No info
+26.5113679,-77.08448974519862,MHH,Marsh Harbour Airport,Marsh Harbour,Bahamas,93126,1929503
+-17.0538464,125.7112394,MHO,Mount House Airport,"Mount House, Western Australia",Australia,11,No info
+52.36271185,0.4854342180401322,MHZ,RAF Mildenhall,"Mildenhall, Suffolk, England",United Kingdom,390,8241
+20.9246449,-89.65927789055651,MID,Manuel Crescencio Rejón International Airport,"Mérida, Yucatán",Mexico,56162,2725170
+-32.8432999,135.1450043,MIN,Minnipa Airport,"Minnipa, South Australia",Australia,2,128
+35.75891045,10.751810560315683,MIR,Monastir Habib Bourguiba International Airport,Monastir,Tunisia,12,No info
+32.89529735,13.278556015653143,MJI,Mitiga International Airport,Tripoli,Libya,1,6
+37.77661405,-0.817794776107736,MJV,Murcia-San Javier Airport,Murcia,Spain,2,2
+62.53395055,114.03472822081284,MJZ,Mirny Airport,"Mirny, Sakha Republic",Russia,1,No info
+-0.0199679,15.5803939,MKJ,Makoua Airport,Makoua,Republic of the Congo,7,2
+-16.5839005,-143.6580048,MKP,Makemo Airport,Makemo,French Polynesia,2,4
+-21.1701961,149.18020182420713,MKY,Mackay Airport,"Mackay, Queensland",Australia,2,9
+47.603236949999996,7.52434812773247,MLH,EuroAirport Basel-Mulhouse-Freiburg,Mulhouse,France,328,17889
+54.50941065,-1.4247903167173146,MME,Durham Tees Valley Airport,"Teesside, England",United Kingdom,232,37209
+36.1646919,137.9263841119999,MMJ,Matsumoto Airport,"Matsumoto, Nagano",Japan,10,866
+-22.8030537,148.7066004,MMM,Middlemount Airport,"Middlemount, Queensland",Australia,40,No info
+55.5361868,13.369715681029767,MMX,Malmö-Sturup Airport,Malmö,Sweden,64,1580
+24.7823495,125.2948325,MMY,Miyako Airport,"Miyakojima, Okinawa",Japan,24,No info
+-7.288374,27.3936965,MNO,Manono Airport,Manono,Democratic Republic of the Congo,17,4637
+-11.1383471,28.87513348094533,MNS,Mansa Airport,"Mansa, Luapula Province",Zambia,1,No info
+20.654133899999998,-74.92211687478238,MOA,Orestes Acosta Airport,Moa,Cuba,3,160
+-16.70518095,-43.82008294490494,MOC,Montes Claros Airport,"Montes Claros, Minas Gerais",Brazil,2,14
+9.185525,-77.9837048,MPI,Mamitupo Airport,Mamitupo,Panamá,1,26
+44.22621995,43.081651070827434,MRV,Mineralnye Vody Airport,Mineralnye Vody,Russia,1,No info
+30.56090975,49.14683456086563,MRX,Mahshahr Airport,Mahshahr,Iran,90,21951
+40.70795335,141.3624150932239,MSJ,Misawa Air Base,"Misawa, Aomori",Japan,155,7017
+53.887662750000004,28.034122736827477,MSQ,Minsk International Airport (Minsk-2),Minsk,Belarus,5,5
+50.9159002,5.7689248,MST,Maastricht Aachen Airport,"Maastricht, Limburg",Netherlands,1568,3145
+-29.4562007,27.556295119714555,MSU,Moshoeshoe International Airport,Maseru,Lesotho,1,No info
+-32.7009346,151.49283857115458,MTL,Maitland Airport,"Maitland, New South Wales",Australia,2,No info
+-26.52798075,31.308103359004054,MTS,Matsapha Airport,Manzini,Swaziland,1,No info
+48.353962499999994,11.778684863472698,MUC,Munich Airport,"Munich, Bavaria",Germany,205891,41426234
+4.17861775,114.33093776067301,MUR,Marudi Airport,"Marudi, Sarawak",Malaysia,1,30
+32.5453455,71.9289205,MWD,PAF Base Mianwali,Mianwali,Pakistan,1,No info
+32.63000155,-115.24489535400568,MXL,GENERAL Rodolfo Sánchez Taboada International Airport,"Mexicali, Baja California",Mexico,1689,57042
+45.629627299999996,8.723547468967393,MXP,Malpensa Airport,Milano,Italy,159853,27008453
+-13.74242285,-172.25784812848053,MXS,Maota Airport,Maota,Samoa,911,9816
+34.0720472,139.5594174772018,MYE,Miyakejima Airport,Miyakejima,Japan,1,18
+33.8273145,132.70132648377265,MYJ,Matsuyama Airport,"Matsuyama, Ehime",Japan,159,22419
+25.38344935,97.35529488111781,MYT,Pamti Airport,Myitkyina,Myanmar (Burma),1,53
+2.0589485,173.2717025,MZK,Marakei Airport,Marakei,Kiribati,10,16
+20.2879389,-77.09105831439442,MZO,Sierra Maestra Airport,Manzanillo,Cuba,236,13608
+36.7048757,67.2051312203642,MZR,Mazari Sharif Airport,Mazari Sharif,Afghanistan,10,No info
+23.16484775,-106.26951604534133,MZT,GENERAL Rafael Buelna International Airport,"Mazatlán, Sinaloa",Mexico,98411,8693583
+14.94862915,102.30870889951402,NAK,Nakhon Ratchasima Airport,Nakhon Ratchasima,Thailand,7,No info
+-17.762453299999997,177.43747042786867,NAN,Nadi International Airport,Nadi,Fiji,33657,5667309
+30.7976963,106.16539591715926,NAO,Nanchong Airport,"Nanchong, Sichuan",China,1,12
+40.8839923,14.284479528610618,NAP,Naples Airport,Naples,Italy,2034,403515
+25.03933675,-77.47012287193701,NAS,Lynden Pindling International Airport,Nassau,Bahamas,837399,57218222
+-5.9114,-35.2477,NAT,Augusto Severo International Airport,Natal,Brazil,70,9929
+-1.3168547,36.92904912198662,NBO,Jomo Kenyatta International Airport,Nairobi,Kenya,840,143296
+19.907286,-75.2068874,NBW,NAS Guantanamo Bay,Guantanamo Bay,Cuba,7620,305091
+21.9157059,-71.9443193415783,NCA,North Caicos Airport,North Caicos,Turks and Caicos Islands,214,1613
+55.037118,-1.71106,NCL,Newcastle Airport,Newcastle upon Tyne,United Kingdom,4316,1066747
+12.1360288,15.034851035991199,NDJ,N'Djamena International Airport,N'Djamena,Chad,1,No info
+56.91109995,124.89788237181267,NER,Chulman Neryungri Airport,Chulman,Russia,58,22041
+17.20489475,-62.592008144838786,NEV,Vance W.Amory International Airport,Nevis,Federation of Saint Kitts and Nevis,13464,237691
+29.8261878,121.45840490871828,NGB,Ningbo Lishe International Airport,"Ningbo, Zhejiang",China,80,1271
+32.917846,129.91545060447868,NGS,Nagasaki Airport,Nagasaki,Japan,43,9258
+51.55435185,-0.41811337248152386,NHT,RAF Northolt,"Ruislip, England",United Kingdom,128,366
+7.4939464000000005,-8.584478839771435,NIA,Nimba Airport,Nimba,Liberia,8,No info
+13.4901663,2.184618025448069,NIM,Diori Hamani International Airport,Niamey,Niger,14,25
+60.949454349999996,76.48562187563991,NJC,Nizhnevartovsk Airport,Nizhnevartovsk,Russia,1,No info
+18.30065725,-15.975010867885818,NKC,Nouakchott International Airport,Nouakchott,Mauritania,14,No info
+31.7318395,118.8722909841032,NKG,Nanjing Lukou International Airport,Nanjing,China,3844,205556
+27.443653849999997,-99.56786380287167,NLD,Quetzalcóatl International Airport,Nuevo Laredo,Mexico,17,1302
+22.6087962,108.1778206273208,NNG,Nanning Wuxu International Airport,"Nanning, Guangxi",China,2,No info
+31.2255586,-110.97528809434876,NOG,Nogales International Airport,"Nogales, Sonora",Mexico,43,No info
+42.01850965,35.07452816070304,NOP,Sinop Airport,Sinop,Turkey,118,1103
+58.5859848,16.2478449,NRK,Norrköping Airport,Norrköping,Sweden,5,5
+3.7250788,11.552168664779966,NSI,Yaoundé Nsimalen International Airport,Yaoundé,Cameroon,3,6
+37.40362245,14.92235005613651,NSY,Sigonella Airport,Catania,Italy,437,5208
+47.151840899999996,-1.6084620308979245,NTE,Nantes Atlantique Airport,Nantes,France,232,16670
+49.49826845,11.078106331160273,NUE,Nuremberg Airport,Nuremberg,Germany,113,5438
+-26.87842885,-48.649354164934465,NVT,Ministro Victor Konder International Airport,"Navegantes, Santa Catarina",Brazil,1,2
+52.6683484,1.2806942422978507,NWI,Norwich International Airport,"Norwich, England",United Kingdom,12,2206
+58.7871654,16.9104983,NYO,Stockholm-Skavsta Airport,Nyköping,Sweden,16,6
+34.939076650000004,69.27647271784608,OAI,Bagram Airfield,Bagram,Afghanistan,19,No info
+16.9994612,-96.72489779307939,OAX,Xoxocotlán International Airport,Oaxaca,Mexico,11243,507106
+42.73232595,143.2127336925417,OBO,Tokachi - Obihiro Airport,"Obihiro, Tokachi Subprefecture, Hokkaido",Japan,71,17808
+55.4751004,10.327968321284805,ODE,Odense Airport,Odense,Denmark,5,44
+46.42729675,30.671640336265803,ODS,Odessa International Airport,Odessa,Ukraine,2,7
+33.48025315,131.73595976930255,OIT,Oita Airport,Oita,Japan,49,8557
+26.1966997,127.6489520891715,OKA,Naha Airport,Okinawa,Japan,3466,304867
+34.75697285,133.8538693555767,OKJ,Okayama Airport,Okayama,Japan,3831,348004
+40.9025051,9.514826925342067,OLB,Olbia – Costa Smeralda Airport,Olbia,Italy,55,177
+38.2475219,-78.045868,OMH,Orange County Airport,"Orange, Virginia",United States,6,No info
+59.2248781,15.040785618696209,ORB,Örebro Airport,Örebro,Sweden,13,No info
+42.98959465,-96.06267424636678,ORC,Orange City Municipal Airport,"Orange City, Iowa",United States,3,No info
+5.8111098,-55.19112768743059,ORG,Zorg en Hoop Airport,Paramaribo,Suriname,1,7
+51.84173815,-8.493798524458427,ORK,Cork Airport,Cork,Ireland,401,44494
+63.19562795,14.499010830385984,OSD,Åre Östersund Airport,Östersund,Sweden,1,5
+45.46087645,18.8170617551376,OSI,Osijek Airport,Osijek,Croatia,1,No info
+60.1881255,11.067861422794119,OSL,"Oslo Airport, Gardermoen",Ullensaker,Norway,25642,4874659
+51.2003974,2.874165781169563,OST,Ostend-Bruges International Airport,Flanders,Belgium,3244,20732
+12.350413150000001,-1.5124424971595523,OUA,Ouagadougou Airport,Ouagadougou,Burkina Faso,8,No info
+55.028972949999996,82.59975849523934,OVB,Novosibirsk Tolmachevo Airport,Novosibirsk,Russia,1,No info
+51.837068349999996,-1.3230495597519503,OXF,London Oxford Airport,"Oxford, England",United Kingdom,19,47
+51.614599299999995,8.619063961655392,PAD,Paderborn/Lippstadt Airport,Paderborn,Germany,40,1243
+6.7854878,101.15276892561963,PAN,Pattani Airport,Pattani,Thailand,1,No info
+37.010744849999995,25.12920293122815,PAS,Paros NATIONAL Airport,Paros,Greece,4,5
+20.5993804,-97.46390874719104,PAZ,El Tajín NATIONAL Airport,"Poza Rica, Veracruz",Mexico,6,615
+19.15571005,-98.37283764210872,PBC,Hermanos Serdán International Airport,Puebla,Mexico,20596,712515
+5.45209655,-55.18802501876111,PBM,Johan Adolf Pengel International Airport,Zanderij,Suriname,6205,157701
+28.62512595,-100.5341074127165,PDS,Piedras Negras International Airport,"Piedras Negras, Coahuila",Mexico,21,No info
+42.0673863,24.854777386401913,PDV,Plovdiv International Airport,Plovdiv,Bulgaria,1,No info
+57.915371199999996,56.02831455353491,PEE,Bolshoye Savino Airport,Perm,Russia,2,2
+4.8124677,-75.7403839964314,PEI,Matecaña International Airport,Pereira,Colombia,1701,40280
+40.079155549999996,116.5942601992765,PEK,Beijing Capital International Airport,Beijing,People's Republic of China,157686,33940033
+5.296731899999999,100.27478564926506,PEN,Penang International Airport,Penang,Malaysia,51,No info
+-31.9406095,115.96760765137932,PER,Perth Airport,"Perth, Western Australia",Australia,17,No info
+-31.71980575,-52.32925064938313,PET,Pelotas International Airport,"Pelotas, Rio Grande DO Sul",Brazil,1,No info
+34.71791325,32.489094835033505,PFO,Paphos International Airport,Paphos,Cyprus,1,No info
+42.743035649999996,2.870327259088999,PGF,Perpignan – Rivesaltes Airport,Perpignan,France,2,173
+26.9553442,64.13388676391679,PJG,Panjgur Airport,Panjgur,Pakistan,5,No info
+53.17016765,158.41910239999999,PKC,Yelizovo Airport,Petropavlovsk-Kamchatsky,Russia,1024,40747
+-3.1450556,-59.98561283693144,PLL,Ponta Pelada Airport,"Manaus, Amazonas",Brazil,2,60
+55.972598899999994,21.094675861557334,PLQ,Palanga International Airport,Palanga,Lithuania,1,1
+21.77415335,-72.2688841868252,PLS,Providenciales International Airport,Providenciales,Turks and Caicos Islands,113711,11628587
+-41.443561700000004,-73.09450467694802,PMC,El Tepual Airport,Puerto Montt,Chile,13,50
+44.82609055,10.296814771033567,PMF,Parma Giuseppe Verdi Airport,Parma,Italy,1,7
+38.176516899999996,13.091643377052751,PMO,Palermo Airport (Falcone-Borsellino Airport),Punta Raisi,Italy,1203,208487
+-10.2918921,-48.3591818921385,PMW,Palmas Airport,"Palmas, Tocantins",Brazil,1,197
+11.5537276,104.8441057,PNH,Phnom Penh International Airport,Phnom Penh,Cambodia,27,1870
+6.9836798,158.20381948562675,PNI,Pohnpei International Airport,Kolonia,Federated States of Micronesia,5923,88253
+-4.81575645,11.886634070093734,PNR,Pointe Noire Airport,Pointe-Noire,Republic of the Congo,1,No info
+-29.995268449999998,-51.16747969953305,POA,Salgado Filho International Airport,"Porto Alegre, Rio Grande DO Sul",Brazil,1898,163255
+-0.7143453,8.75312456524845,POG,PORT Gentil Airport,PORT Gentil,Gabon,1,No info
+10.59734525,-61.339509684592386,POS,Piarco International Airport,Piarco,Trinidad and Tobago,189957,18657625
+50.1077599,14.2675364,PRG,Václav Havel Airport Prague,Prague,Czech Republic,17244,3008527
+-25.65847035,28.219465478499153,PRY,Wonderboom Airport,Pretoria,South Africa,1,No info
+43.68479365,10.39552700998277,PSA,Galileo Galilei Airport,Pisa,Italy,2368,331993
+42.4321436,14.186080677809038,PSR,Pescara Airport,Pescara,Italy,2,85
+-23.8449832,29.45322047981338,PTG,Polokwane International Airport,Polokwane,South Africa,2,No info
+16.2658457,-61.528368796666484,PTP,Guadeloupe Pôle Caraïbes Airport,Pointe-à-Pitre,Guadeloupe,40675,1215258
+-1.5041061,-78.06476009310003,PTZ,Rio Amazonas Airport,Shell Mera,Ecuador,3,No info
+-47.7346017,-65.90289157339043,PUD,Puerto Deseado Airport,"Puerto Deseado, Santa Cruz Province",Argentina,2,152
+43.3789419,-0.4157200487958993,PUF,Pau Pyrénées Airport,Pau,France,2,277
+18.5697918,-68.36662616922789,PUJ,Punta Cana International Airport,Punta Cana,Dominican Republic,283299,33885631
+35.1800774,128.93640137086572,PUS,Gimhae International Airport,Busan,South Korea,14555,1907916
+31.141345049999998,121.80463662688626,PVG,Shanghai Pudong International Airport,Shanghai,People's Republic of China,216263,29592744
+64.3800982,-173.2386276724423,PVS,Provideniya Bay Airport,"Provideniya, Chukotka",Russia,508,1788
+69.78489125,170.59996412000802,PWE,Pevek Airport,Pevek,Russia,2,No info
+33.07362365,-16.34816497905559,PXO,Porto Santo Airport,"Porto Santo, Madeira",Portugal,1,No info
+66.40058074999999,112.03287408276974,PYJ,Polyarny Airport,"Polyarny, Yakutia",Russia,3,No info
+1.3448876,103.8992252,QPG,Paya Lebar Air Base,Paya Lebar,Singapore,18,124
+20.6217277,-100.19650618446578,QRO,Querétaro International Airport,Querétaro,Mexico,47434,2000256
+-4.33973075,152.3788819397417,RAB,Tokua Airport,Rabaul,Papua New Guinea,2,17
+-21.201722349999997,-159.80567804613287,RAR,Rarotonga International Airport,Avarua,Cook Islands,3614,601788
+62.1584851,77.32887320660194,RAT,Raduzhny Airport,"Raduzhny, Khanty - Mansi Autonomous Okrug",Russia,1,No info
+34.0365064,-6.7625463,RBA,Sale Airport,Rabat,Morocco,12,79
+-20.7011131,143.1169005,RCM,Richmond Airport,"Richmond, Queensland",Australia,1,No info
+-8.1256775,-34.92271835508188,REC,Guararapes International Airport,Recife,Brazil,7425,1090079
+13.3740177,104.22218309543882,REP,Angkor International Airport,Siem Reap,Cambodia,1,4
+-27.4476154,-59.05377708929865,RES,Resistencia International Airport,"Resistencia, Chaco",Argentina,20,2438
+26.005776500000003,-98.2241938925834,REX,GENERAL Lucio Blanco International Airport,Reynosa,Mexico,9,393
+-53.77878905,-67.74665274947202,RGA,Hermes Quijada International Airport,"Río Grande, Tierra del Fuego",Argentina,1,3
+16.91201185,96.13661261066854,RGN,Yangon International Airport,Yangon,Myanmar,3,84
+36.4050007,28.087406950000002,RHO,Rhodes International Airport,Rhodes,Greece,2,4
+55.5858236,12.132685539683798,RKE,Roskilde Airport,Roskilde,Denmark,5,13
+25.612982549999998,55.939693995234535,RKT,Ras Al Khaimah International Airport,Ras Al Khaimah,United Arab Emirates,1,1
+64.129393,-21.940944455147573,RKV,Reykjavík Airport,Reykjavík,Iceland,17,171
+53.919142750000006,12.276204371080205,RLG,Rostock Laage Airport,Rostock,Germany,4,146
+44.02021415,12.612590543153736,RMI,Federico Fellini International Airport,Rimini,Italy,3,16
+49.44142600000001,7.601240124264638,RMS,Ramstein Air Base,Ramstein,Germany,9407,23714
+55.064855300000005,14.754150289726347,RNN,Bornholm Airport,Rønne,Denmark,1,No info
+-23.383076950000003,150.47213850960662,ROK,Rockhampton Airport,"Rockhampton, Queensland",Australia,2,No info
+7.366885099999999,134.54430649330376,ROR,Babelthuap Airport,Koror,Palau,18927,1362259
+-32.9031739,-60.77906984902012,ROS,Rosario - Islas Malvinas International Airport,Rosario,Argentina,20,2414
+43.69361995,26.0561248660734,ROU,Rousse Airport,Rousse,Bulgaria,3,47
+16.3169504,-86.5248116875334,RTB,Juan Manuel Gálvez International Airport,Roatán,Honduras,14844,1517669
+51.95633585,4.439731915265206,RTM,Rotterdam The Hague Airport,Rotterdam,Netherlands,61,3103
+-32.00573915,115.54434807748402,RTS,Rottnest Island Airport,"Rottnest Island, Western Australia",Australia,84,2
+24.95862035,46.7110284093297,RUH,King Khalid International Airport,Riyadh,Saudi Arabia,7961,1394494
+66.561662,25.8302119,RVN,Rovaniemi Airport,Rovaniemi,Finland,1,82
+50.11148165,22.018435906021026,RZE,Rzeszów - Jasionka Airport,Rzeszów,Poland,389,78935
+40.89929455,29.307552329592077,SAW,Sabiha Gökçen International Airport,Istanbul,Turkey,1714,142
+-33.38939795,-70.7941756354175,SCL,Comodoro Arturo Merino Benítez International Airport,Santiago,Chile,144749,17962758
+49.2166001,7.112361932435437,SCN,Saarbrücken Airport,Saarbrücken,Germany,3,1
+43.85891105,51.09314386990394,SCO,Aktau Airport,Aktau,Kazakhstan,3,No info
+19.9753964,-75.83547295807672,SCU,Antonio Maceo International Airport,Santiago,Cuba,4103,344454
+38.138254849999996,140.9299361810537,SDJ,Sendai Airport,Natori,Japan,18137,2101274
+62.5278157,17.44062745100433,SDL,Sundsvall-Härnösand Airport (Midlanda Airport),Sundsvall,Sweden,18,51
+43.42716075,-3.822844898531179,SDR,Santander - Parayas Airport,"Santander, Cantabria",Spain,4,29
+51.570227599999996,0.6966132970490921,SEN,London Southend Airport,Southend,Essex United Kingdom,24,53
+-4.674262499999999,55.52120037637752,SEZ,Seychelles International Airport,Mahé,Seychelles,4,204
+7.88396165,-67.44415083311858,SFD,Las Flecheras Airport,San Fernando de Apure,Venezuela,8,924
+67.01133010000001,-50.70745791678873,SFJ,Kangerlussuaq Airport,Kangerlussuaq,Greenland,121,4030
+61.3414657,73.4052099844604,SGC,Surgut Airport,Surgut,Russia,1,No info
+54.9625495,9.792646648299392,SGD,Sønderborg Airport,Sønderborg,Denmark,28,118
+31.19767765,121.33448312534463,SHA,Shanghai Hongqiao International Airport,Shanghai,China,11286,1511649
+43.576615000000004,144.95758585625597,SHB,Nakashibetsu Airport,Nakashibetsu,Japan,20,202
+41.63710115000001,123.48348341123219,SHE,Shenyang Taoxian International Airport,Shenyang,China,420,96315
+24.824514399999998,125.1468439713185,SHI,Shimojishima Airport,Shimojishima,Japan,6,9
+25.3401476,55.5137442,SHJ,Sharjah International Airport,Sharjah,United Arab Emirates,210,138
+1.3521108499999999,103.98701251855138,SIN,Singapore Changi Airport,Changi,Singapore,23000,3067386
+46.21931995,7.330007591593666,SIR,Sion Airport,Sion,Switzerland,9,29
+13.728828799999999,-84.77740075001209,SIU,Siuna Airport,Siuna,Nicaragua,2,No info
+23.1451694,-109.71801287922258,SJD,Los Cabos International Airport,Los Cabos,Mexico,441440,47188767
+12.36166935,121.04458254709422,SJI,San Jose Airport,"San Jose, Occidental Mindoro",Philippines,1,166
+43.8253475,18.333154918143215,SJJ,Sarajevo International Airport,Sarajevo,Bosnia and Herzegovina,3,5
+38.2803561,114.68964497905779,SJW,Shijiazhuang Zhengding International Airport,Shijiazhuang,China,42,7277
+17.3113064,-62.71800233941045,SKB,Robert L.Bradshaw International Airport,Basseterre,Saint Kitts and Nevis,92104,3756743
+40.51980185,22.974086812428308,SKG,Makedonia Airport,Thessaloniki,Greece,16,3059
+41.96173655,21.621843594367405,SKP,Skopje Airport,Skopje,Macedonia,4,17
+55.2253974,9.259452357621601,SKS,Skrydstrup Airport,Vojens,Denmark,1,No info
+54.12746945,45.2152086490289,SKX,Saransk Airport,Saransk,Russia,3,14
+-12.17304205,26.369208569229826,SLI,Solwezi Airport,Solwezi,Zambia,2,95
+40.9510067,-5.501640203055835,SLM,Matacán Airport,Salamanca,Spain,8,24
+22.260231349999998,-100.93678970603378,SLP,Ponciano Arriaga International Airport,"San Luis Potosí, San Luis Potosí",Mexico,42197,1507373
+14.0198739,-60.9943995169477,SLU,George F.L.Charles Airport,Castries,Saint Lucia,50094,1615888
+-2.58899115,-44.23940764493366,SLZ,Marechal Cunha Machado International Airport,São Luís,Brazil,33,5093
+11.11889205,-74.23118878167132,SMR,Simón Bolívar International Airport,Santa Marta,Colombia,69,5226
+47.312637699999996,-2.1517499341229978,SNR,Saint-Nazaire Montoir Airport,Saint-Nazaire,France,13,33
+22.4906757,-79.9432643,SNU,Abel Santamaría Airport,Santa Clara,Cuba,10739,1036236
+42.69557455,23.414218088581656,SOF,Sofia Airport,Sofia,Bulgaria,1412,195759
+8.94647265,-64.14672775872725,SOM,San Tomé Airport,San Tomé,Venezuela,1,No info
+50.95191505,-1.3561000015780094,SOU,Southampton Airport,"Eastleigh, England",United Kingdom,9,29
+25.757940650000002,88.90942375402783,SPD,Saidpur Airport,Saidpur,Bangladesh,5,No info
+49.97958235,6.699620709879576,SPM,Spangdahlem Air Base,Spangdahlem,Germany,38,No info
+43.5397753,16.300224163865497,SPU,Split Airport,Split,Croatia,16,321
+-17.81122735,-63.1716737506149,SRZ,El Trompillo Airport,Santa Cruz de la Sierra,Bolivia,233,No info
+-12.91102045,-38.33497451468749,SSA,Deputado Luís Eduardo Magalhães International Airport,"Salvador, Bahia",Brazil,5017,593765
+27.9839706,34.3924427,SSH,Sharm el-Sheikh International Airport,Sharm el-Sheikh,Egypt,2,230
+37.4445568,127.11051601594386,SSN,Seoul Air Base,Seongnam,South Korea,20,2742
+19.405476,-70.60372192260436,STI,Cibao International Airport,Santiago,Dominican Republic,162322,18140885
+51.88696515,0.24419290157330298,STN,London Stansted Airport,"Essex, England",United Kingdom,54910,824040
+48.68842195,9.205392504886913,STR,Stuttgart Airport,Stuttgart,Germany,19524,3152235
+-7.3747119,112.7946133,SUB,Juanda International Airport,Surabaya,Indonesia,2,121
+38.9062877,16.24275952965428,SUF,Lamezia Terme International Airport,Lamezia Terme,Italy,2,12
+47.705222,22.88445740774703,SUJ,Satu Mare International Airport,Satu Mare,Romania,254,19308
+55.97608755,37.4238008194297,SVO,Sheremetyevo International Airport,Moscow,Russia,71659,12901356
+48.538652549999995,7.625009702296425,SXB,Strasbourg Entzheim International Airport,Strasbourg,France,11,327
+-33.935309,151.1655825,SYD,Sydney Airport,Mascot,Australia,176385,40564927
+38.815828550000006,139.78777585339822,SYO,Shonai Airport,Yamagata,Japan,25,2448
+18.30441145,109.4125578036077,SYX,Sanya Phoenix International Airport,"Sanya, Hainan",China,1,No info
+3.1308814500000004,101.55028764274799,SZB,Sultan Abdul Aziz Shah Airport,Subang,Malaysia,6,317
+47.7934551,13.001830576958724,SZG,Salzburg Airport,Salzburg,Austria,27,629
+53.42808025,11.783547424439362,SZW,Schwerin-Parchim Airport,Parchim,Germany,5,No info
+22.6376434,113.80607686281571,SZX,Shenzhen Bao'an International Airport,"Shenzhen, Guangdong",China,8482,243560
+53.5843896,14.90594395094535,SZZ,Szczecin-Goleniów Solidarnosc Airport,Goleniów,Poland,1,No info
+35.89664705,128.65684823422797,TAE,Daegu International Airport,Daegu,South Korea,31,2525
+35.5380059,-0.5368844519229578,TAF,Oran Tafaraoui Airport,Oran,Algeria,6,1293
+34.2151743,134.01940079050462,TAK,Takamatsu Airport,"Takamatsu, Kagawa",Japan,187,29692
+22.29066925,-97.8640037411272,TAM,General Francisco Javier Mina International Airport,"Tampico, Tamaulipas",Mexico,18044,633279
+36.26799135,120.37679264563059,TAO,Qingdao Liuting International Airport,"Qingdao, Shandong",China,1847,276997
+14.78783275,-92.37635495815188,TAP,Tapachula International Airport,"Tapachula, Chiapas",Mexico,7,374
+40.51061755,17.39882337351819,TAR,Taranto-Grottaglie Airport,"Grottaglie, Puglia",Italy,1728,3
+41.2599624,69.28511704456324,TAS,Tashkent International Airport,Tashkent,Uzbekistan,393,76078
+49.07121425,20.24725741197063,TAT,Poprad-Tatry Airport,Poprad,Slovakia,1,No info
+24.314824100000003,-75.45763803663925,TBI,New Bight Airport,"New Bight, Cat Island",Bahamas,1345,12549
+41.66958674999999,44.95514406314355,TBS,Tbilisi International Airport,Tbilisi,Georgia,18,131
+29.59499725,34.784590974856734,TCP,Taba International Airport,Taba,Egypt,1,80
+38.7673205,-27.0904725,TER,Lajes Field,"Lajes, Azores",Portugal,5227,644483
+28.48275745,-16.34122474502233,TFN,Tenerife North Airport (Los Rodeos Airport),"Tenerife, Canary Islands",Spain,92,17260
+28.046054650000002,-16.57271529967347,TFS,Tenerife South Airport (Reina Sofia Airport),"Tenerife, Canary Islands",Spain,321,37087
+42.3605703,19.25007158353284,TGD,Podgorica Airport,Golubovci,Montenegro,1,107
+14.0603447,-87.21931915065048,TGU,Toncontín International Airport,Tegucigalpa,Honduras,55456,5130415
+-5.0598744,-42.823510202633514,THE,Teresina Airport,"Teresina, Piauí",Brazil,10,1282
+35.6979248,51.278399738353954,THR,Mehrabad International Airport,Tehran,Iran,3,No info
+76.52994655,-68.7145635800423,THU,Thule Air Base,Pituffik,Greenland,581,362
+32.66849245,13.149413956650154,TIP,Tripoli International Airport,Tripoli,Libya,16,4
+42.403729850000005,18.724834448309945,TIV,Tivat Airport,Tivat,Montenegro,5,40
+7.461951600000001,151.84307838327413,TKK,Chuuk International Airport,Weno,Federated States of Micronesia,17225,1618197
+60.5133902,22.26333725991195,TKU,Turku Airport,Turku,Finland,29,4218
+19.33818275,-99.565340075988,TLC,Lic. Adolfo López Mateos International Airport,"Toluca, Estado de México",Mexico,32686,697221
+59.414388,24.836840478778107,TLL,Lennart Meri Tallinn Airport,Tallinn,Estonia,23,195
+43.095769149999995,6.1478463767391816,TLN,Toulon-Hyères Airport,Toulon,France,35,141
+61.41482,23.608124582625788,TMP,Tampere-Pirkkala Airport,Tampere / Pirkkala,Finland,15,534
+36.8572453,117.21173410272695,TNA,Jinan Yaoqiang International Airport,"Jinan, Shandong",China,888,146841
+69.68179375,18.91540972267273,TOS,Tromsø Airport,Tromsø,Norway,2,14
+36.649042050000006,137.18721380281647,TOY,Toyama Airport,"Toyama, Toyama",Japan,169,19458
+-22.7460003,117.8690033,TPR,Tom Price Airport,"Tom Price, Western Australia",Australia,29,9313
+37.913008950000005,12.492621862041094,TPS,Trapani-Birgi Airport,Trapani,Italy,1,No info
+3.3270177,117.5680098886989,TRK,Juwata Airport,"Tarakan, East Kalimantan",Indonesia,2,5
+45.8261611,13.473368702886166,TRS,Friuli Venezia Giulia Airport,Trieste,Italy,5,115
+1.3816209000000002,173.14777058642787,TRW,Bonriki International Airport,Tarawa,Kiribati,5,No info
+51.0268834,71.46081320801981,TSE,Astana Airport,Astana,Kazakhstan,6,16
+45.6490897,12.196684766859011,TSF,Treviso Airport,Treviso,Italy,30,102
+39.12745995,117.35483617593881,TSN,Tianjin Binhai International Airport,Tianjin,China,712,8911
+-19.2518982,146.77447438460155,TSV,Townsville Airport,"Townsville, Queensland",Australia,14,765
+36.8493374,10.227971,TUN,Tunis–Carthage International Airport,Tunis / Carthage,Tunisia,20,3
+-4.5743902,-81.25516419052624,TYL,Cap. FAP Víctor Montes Arias Airport,Talara,Peru,4,2
+37.7488565,112.62232573051733,TYN,Taiyuan Wusu International Airport,"Taiyuan, Shanxi",China,12,549
+44.4625583,18.724443064898992,TZL,Tuzla International Airport,Tuzla,Bosnia and Herzegovina,1,No info
+61.160465450000004,-45.42536298156452,UAK,Narsarsuaq Airport,Narsarsuaq,Greenland,9,229
+33.9294836,131.27519368983468,UBJ,Yamaguchi Ube Airport,"Ube, Yamaguchi Prefecture",Japan,16,3865
+15.2536783,104.86906426652979,UBP,Ubon Ratchathani Airport,Ubon Ratchathani,Thailand,2,54
+54.55435815,55.88220985059501,UFA,Ufa Airport,"Ufa, Bashkortostan",Russia,2,No info
+-0.12721169999999998,-78.35809738941953,UIO,Mariscal Sucre International Airport,Quito,Ecuador,112869,10717791
+47.9713877,-4.17040990631579,UIP,Quimper - Cornouaille Airport,Quimper,France,1,No info
+47.84297625000001,106.7667561731925,ULN,Chinggis Khaan International Airport,Ulan Bator,Mongolia,4,135
+54.40245315,48.80737387774012,ULY,Ulyanovsk Vostochny Airport,Ulyanovsk,Russia,16,No info
+-54.84157295,-68.30858633055082,USH,Ushuaia - Malvinas Argentinas International Airport,"Ushuaia, Tierra del Fuego",Argentina,5,737
+-28.402504,21.258329003972364,UTN,Upington Airport,Upington,South Africa,2,No info
+13.7342774,-60.95388420129784,UVF,Hewanorra International Airport,Vieux-Fort,Saint Lucia,45499,5471810
+43.23393595,27.823302249448076,VAR,Varna Airport,Varna,Bulgaria,1,7
+45.50353855,12.342579681064803,VCE,Venice Marco Polo Airport,Venice,Italy,21733,4027054
+19.1360387,-96.1860706333789,VER,General Heriberto Jara International Airport,"Veracruz, Veracruz",Mexico,23021,926876
+42.232922450000004,-8.626166079129476,VGO,Vigo-Peinador Airport,"Vigo, Galicia",Spain,2,3
+48.10499675,16.5848987032657,VIE,Vienna International Airport,Vienna,Austria,52458,9880531
+8.62391785,-71.67132508302207,VIG,Juan Pablo Perez Alfonso Airport,El Vigía,Venezuela,48,201
+18.4466072,-64.4279001888192,VIJ,Virgin Gorda Airport,Virgin Gorda,British Virgin Islands,15498,94259
+-20.256092950000003,-40.28135718192593,VIX,Eurico de Aguiar Salles Airport,"Vitória, Espírito Santo",Brazil,1680,3
+55.5995278,37.27357516712458,VKO,Vnukovo International Airport,Moscow,Russia,1569,252301
+39.4878647,-0.48120918609833196,VLC,Valencia Airport,"Valencia, Valencian Community",Spain,572,74574
+-17.69913085,168.3193165665017,VLI,Bauerfield International Airport,Port Vila,Vanuatu,4,82
+41.706834349999994,-4.854374275220002,VLL,Valladolid Airport,Valladolid,Spain,3,3
+10.151676850000001,-67.92881547478783,VLN,Arturo Michelena International Airport,"Valencia, Carabobo",Venezuela,19993,949240
+54.63483615,25.290314330439507,VNO,Vilnius International Airport,Vilnius,Lithuania,4,6
+48.78335465,44.347290075526445,VOG,Gumrak Airport,Volgograd,Russia,34,No info
+45.39717245,10.885895928972548,VRN,Verona Airport,Verona,Italy,23,63
+59.5895789,16.631214886515107,VST,Stockholm-Västerås Airport,Stockholm,Sweden,1,1
+10.4354221,-73.24902965045095,VUP,Alfonso López Pumarejo Airport,Valledupar,Colombia,1,6
+-17.6594809,-63.13846624460784,VVI,Viru Viru International Airport,Santa Cruz,Bolivia,22649,2591449
+52.1868444,-7.086350954115158,WAT,Waterford Airport,Waterford,Ireland,2,5
+-22.4822038,17.472054302453607,WDH,Windhoek Hosea Kutako International Airport,Windhoek,Namibia,5,297
+-41.32710435,174.80796709422714,WLG,Wellington International Airport,Wellington,New Zealand,3,412
+52.450885650000004,20.648988117621318,WMI,Modlin Airport,Warsaw,Poland,1,1
+51.1051232,16.88107379697871,WRO,Copernicus Airport Wroclaw,Wroclaw,Poland,6,2
+26.6883433,-78.9834305553414,WTD,West End Airport,Grand Bahama,Bahamas,79,5967
+30.77382425,114.21236810445089,WUH,Wuhan Tianhe International Airport,"Wuhan, Hubei",China,2026,370544
+42.3114714,-82.0759452,XCM,Chatham-Kent Airport,"Chatham-Kent, Ontario",Canada,2,10
+27.98876455,102.1845480169798,XIC,Xichang Qingshan Airport,Qingshan,China,3,No info
+34.43866385,108.7580567206632,XIY,Xi'an Xianyang International Airport,"Xianyang, Shaanxi",China,378,62639
+24.543830049999997,118.13265145897324,XMN,Xiamen Gaoqi International Airport,"Xiamen, Fujian",China,872,183315
+36.74377795,-6.064049514261415,XRY,Jerez Airport (La Parra Airport),Jerez de la Frontera,Spain,5,238
+21.51570485,-71.52983439004242,XSC,South Caicos Airport,South Caicos,Turks and Caicos Islands,653,No info
+1.4170202,103.86808181112622,XSP,Seletar Airport,Seletar,Singapore,2,6
+46.4832241,-84.50593834304985,YAM,Sault Ste. Marie Airport,"Sault Ste. Marie, Ontario",Canada,83,5975
+9.49898575,138.08313625016342,YAP,Yap International Airport,Yap,Federated States of Micronesia,10139,798180
+52.9275937,-82.43111259693612,YAT,Attawapiskat Airport,"Attawapiskat, Ontario",Canada,24,555
+49.08161545,-125.77932069107595,YAZ,Tofino Airport,"Tofino, British Columbia",Canada,720,2458
+48.331432500000005,-70.99492946501087,YBG,Bagotville Airport,"Bagotville, Quebec",Canada,18,552
+49.9540995,-125.27572028227023,YBL,Campbell River Airport,"Campbell River, British Columbia",Canada,10793,47083
+49.05294715,-123.87077170725448,YCD,Nanaimo Airport,"Nanaimo, British Columbia",Canada,2625,7963
+50.0203018,-124.9840012,YCF,Cortes Island Aerodrome,"Cortes Island, British Columbia",Canada,619,3646
+47.0078011,-65.4492035,YCH,Miramichi Airport,"Miramichi, New Brunswick",Canada,7,197
+67.02074845,-126.12863549570841,YCK,Colville Lake/Tommy Kochon Aerodrome,"Colville Lake, Northwest Territories",Canada,15,53
+47.990799,-66.3302994,YCL,Charlo Airport,"Charlo, New Brunswick",Canada,39,173
+67.81699259999999,-115.14514387808345,YCO,Kugluktuk Airport,"Kugluktuk, Nunavut",Canada,1,6
+64.04402830000001,-139.12349875910493,YDA,Dawson City Airport,"Dawson City, Yukon",Canada,791,4396
+58.420088500000006,-130.0364383156042,YDL,Dease Lake Airport,"Dease Lake, British Columbia",Canada,2,19
+55.7414723,-120.1827832047685,YDQ,Dawson Creek Airport,"Dawson Creek, British Columbia",Canada,7,No info
+51.00902325,-2.643919376135245,YEO,RNAS Yeovilton,"Yeovilton, England",United Kingdom,3,No info
+63.757401900000005,-68.55238356809608,YFB,Iqaluit Airport,"Iqaluit, Nunavut",Canada,573,9579
+49.6941986,-124.5179977,YGB,Texada/Gillies Bay Airport,"Texada Island, British Columbia",Canada,4,20
+50.0990867,-125.0236065,YGE,Gorge Harbour Airport,"Gorge Harbour, British Columbia",Canada,41,161
+48.8544222,-123.4970719,YGG,Ganges Water Aerodrome,"Ganges, British Columbia",Canada,129,234
+44.226404349999996,-76.60062637910816,YGK,Kingston/Norman Rogers Airport,"Kingston, Ontario",Canada,22,150
+49.714139700000004,-83.68811012191951,YHF,Hearst (René Fontaine) Municipal Airport,"Hearst, Ontario",Canada,1,No info
+50.0464809,-125.2555537,YHH,Campbell River Water Aerodrome,"Campbell River, British Columbia",Canada,1242,6693
+43.170848750000005,-79.92753721554418,YHM,John C. Munro Hamilton International Airport,"Hamilton, Ontario",Canada,45855,236614
+49.1931,-84.7589035,YHN,Hornepayne Municipal Airport,"Hornepayne, Ontario",Canada,1,No info
+50.470598300000006,-59.63199459256151,YHR,Chevery Airport,"Chevery, Quebec",Canada,12,66
+49.4602145,-123.71702618874023,YHS,Sechelt Aerodrome,"Sechelt, British Columbia",Canada,101,428
+60.7892551,-137.539202,YHT,Haines Junction Airport,"Haines Junction, Yukon",Canada,2,104
+48.543099299999994,-58.559355183351315,YJT,Stephenville Airport,"Stephenville, Newfoundland and Labrador",Canada,352,34802
+50.70379125,-120.44790594917657,YKA,Kamloops Airport,"Kamloops, British Columbia",Canada,2020,65498
+43.46011665,-80.38766081847507,YKF,Region of Waterloo International Airport,"Waterloo Regional Municipality, Ontario",Canada,16420,307368
+62.091462500000006,129.76969577334057,YKS,Yakutsk Airport,"Yakutsk, Sakha (Yakutia) Republic",Russia,8,152
+49.02990215,-77.01652790419863,YLS,Lebel-sur-Quévillon Airport,"Lebel-sur-Quévillon, Quebec",Canada,41,185
+49.956703700000006,-119.37954941396475,YLW,Kelowna International Airport,"Kelowna, British Columbia",Canada,53698,2150317
+63.6166166,-135.8690225156807,YMA,Mayo Airport,"Mayo, Yukon",Canada,3,385
+52.3027992,-55.8471985,YMH,Mary's Harbour Airport,"Mary's Harbour, Labrador",Canada,3,2
+47.59730375,-70.22319864498505,YML,Charlevoix Airport,"Charlevoix, Quebec",Canada,6,14
+56.7325953,-111.3754674,YMM,Fort McMurray Airport,"Fort McMurray, Alberta",Canada,740,29580
+50.5922315,-127.0883846,YMP,Port McNeill Airport,"Port McNeill, British Columbia",Canada,498,2751
+46.2724388,-75.99223387219749,YMW,Maniwaki Airport,"Maniwaki, Quebec",Canada,4,8
+45.6825019,-74.0275252,YMX,Montréal-Mirabel International Airport,"Mirabel, Quebec",Canada,74790,3111971
+67.5673747,-139.849274,YOC,Old Crow Airport,"Old Crow, Yukon",Canada,612,2062
+54.395547050000005,-110.26376575390684,YOD,CFB Cold Lake,"Cold Lake, Alberta",Canada,76,4519
+43.9227762,-78.8950068,YOO,Oshawa Airport,"Oshawa, Ontario",Canada,14,25
+45.32203645,-75.66726438915012,YOW,Ottawa/Macdonald-Cartier International Airport,"Ottawa, Ontario",Canada,450552,16231288
+53.2166982,-105.675088,YPA,Prince Albert (Glass Field) Airport,"Prince Albert, Saskatchewan",Canada,2,160
+45.25985195,-79.83095283040441,YPD,Parry Sound Area Municipal Airport,"Parry Sound, Ontario",Canada,26,106
+44.2294344,-78.3672073,YPQ,Peterborough Airport,"Peterborough, Ontario",Canada,333,2731
+49.6319343,-124.0425407,YPT,Pender Harbour Water Aerodrome,"Pender Harbour, British Columbia",Canada,79,147
+49.83348945,-124.49884784745427,YPW,Powell River Airport,"Powell River, British Columbia",Canada,472,2770
+44.9754065,-79.30674035378686,YQA,Muskoka Airport,"Muskoka, Ontario",Canada,126,420
+46.792174849999995,-71.38577821056776,YQB,Québec/Jean Lesage International Airport,"Sainte-Foy, Quebec City, Quebec",Canada,89850,4020435
+52.18576525,-113.88599970807856,YQF,Red Deer Regional Airport,"Red Deer, Alberta",Canada,3,24
+42.27541855,-82.945034555007,YQG,Windsor Airport,"Windsor, Ontario",Canada,3337,11301
+60.11951655,-128.81643855172976,YQH,Watson Lake Airport,"Watson Lake, Yukon",Canada,1,No info
+43.8244588,-66.08582716371048,YQI,Yarmouth Airport,"Yarmouth, Nova Scotia",Canada,8,294
+49.7896669,-94.3622078,YQK,Kenora Airport,"Kenora, Ontario",Canada,1564,16693
+46.11647835,-64.67556069377879,YQM,Greater Moncton International Airport,"Moncton, New Brunswick",Canada,8599,343260
+49.711201,-124.89458096570971,YQQ,CFB Comox,"Comox, British Columbia",Canada,15,169
+50.4309977,-104.66560618608906,YQR,Regina International Airport,"Regina, Saskatchewan",Canada,50784,2449126
+48.37209765,-89.32725832169425,YQT,Thunder Bay Airport,"Thunder Bay, Ontario",Canada,20046,312049
+55.1800502,-118.87829242532925,YQU,Grande Prairie Airport,"Grande Prairie, Alberta",Canada,22,1159
+52.768967,-108.25243233738087,YQW,North Battleford Airport,"North Battleford, Saskatchewan",Canada,1,No info
+46.1601409,-60.04609658846361,YQY,Sydney/J.A. Douglas McCurdy Airport,"Sydney, Nova Scotia",Canada,63,1727
+53.0246193,-122.5073650587199,YQZ,Quesnel Airport,"Quesnel, British Columbia",Canada,7,161
+74.7166791,-94.96858868629138,YRB,Resolute Bay Airport,"Resolute, Nunavut",Canada,1,No info
+48.5200005,-72.2656021,YRJ,Roberval Airport,"Roberval, Quebec",Canada,3,19
+46.3567288,-72.67815017616294,YRQ,Trois-Rivières Airport,"Trois-Rivières, Quebec",Canada,36,297
+46.625,-80.7988968,YSB,Sudbury Airport,"Greater Sudbury, Ontario",Canada,20,443
+59.250382200000004,-105.84143669997378,YSF,Stony Rapids Airport,"Stony Rapids, Saskatchewan",Canada,2,27
+45.31381415,-65.88597941149104,YSJ,Saint John Airport,"Saint John, New Brunswick",Canada,2180,15128
+47.157274400000006,-67.83474899201278,YSL,Saint-Léonard Aerodrome,"Saint-Léonard, New Brunswick",Canada,2,13
+50.6828003,-119.228996,YSN,Salmon Arm Airport,"Salmon Arm, British Columbia",Canada,81,32
+48.75823135,-86.34818596362842,YSP,Marathon Aerodrome,"Marathon, Ontario",Canada,3,37
+53.8450405,-94.8522875,YST,St. Theresa Point Airport,"St. Theresa Point, Manitoba",Canada,1,No info
+46.4406013,-63.8335991,YSU,Summerside Airport,"Summerside, Prince Edward Island",Canada,9,459
+45.863462999999996,-77.25299733792926,YTA,Pembroke Airport,"Pembroke, Ontario",Canada,1,2
+48.5098133,-71.6502761,YTF,Alma Airport,"Alma, Quebec",Canada,1,6
+49.1548919,-125.909561,YTP,Tofino Harbour Water Aerodrome,"Tofino, British Columbia",Canada,80,151
+48.57027225,-81.37862174994194,YTS,Timmins/Victor M. Power Airport,"Timmins, Ontario",Canada,22,668
+43.628057049999995,-79.39799115453366,YTZ,Billy Bishop Toronto City Airport,"Toronto, Ontario",Canada,179459,7951711
+69.4309915,-133.01773322448315,YUB,Tuktoyaktuk/James Gruben Airport,"Tuktoyaktuk, Northwest Territories",Canada,21,652
+68.7761002,-81.2435989,YUX,Hall Beach Airport,"Hall Beach, Nunavut",Canada,53,No info
+48.2083786,-78.8323492,YUY,Rouyn-Noranda Airport,"Rouyn-Noranda, Quebec",Canada,10,36
+48.07118955,-65.46021846014798,YVB,Bonaventure Airport,"Bonaventure, Quebec",Canada,8,465
+48.0537795,-77.7846334,YVO,Val-d'Or Airport,"Val-d'Or, Quebec",Canada,3,50
+58.0906856,-68.42739348649496,YVP,Kuujjuaq Airport,"Kuujjuaq, Quebec",Canada,8,No info
+65.2805699,-126.79806851473037,YVQ,Norman Wells Airport,"Norman Wells, Northwest Territories",Canada,1,No info
+49.193044,-123.17986424460963,YVR,Vancouver International Airport,"Vancouver, British Columbia",Canada,1510335,121361766
+49.91046085,-97.2379281374448,YWG,Winnipeg James Armstrong Richardson International Airport,"Winnipeg, Manitoba",Canada,232627,12019096
+48.4253301,-123.3904221,YWH,Victoria Inner Harbour Airport,"Victoria, British Columbia",Canada,40203,239930
+52.1831017,-122.054,YWL,Williams Lake Airport,"Williams Lake, British Columbia",Canada,8,1419
+49.612860850000004,-115.78391098859873,YXC,Cranbrook/Canadian Rockies International Airport,"Cranbrook, British Columbia",Canada,211,4537
+50.0185704,-110.72105082680821,YXH,Medicine Hat Airport,"Medicine Hat, Alberta",Canada,2,69
+53.88330435,-122.67442382203441,YXS,Prince George Airport,"Prince George, British Columbia",Canada,379,11342
+43.03236375,-81.14876380261438,YXU,London International Airport,"London, Ontario",Canada,49901,922785
+49.0226288,-122.3795503,YXX,Abbotsford International Airport,"Abbotsford, British Columbia",Canada,379,25523
+60.7143977,-135.0764753,YXY,Erik Nielsen Whitehorse International Airport,"Whitehorse, Yukon",Canada,1849,98846
+47.9641218,-84.78941127387685,YXZ,Wawa Airport,"Wawa, Ontario",Canada,8,1254
+46.3639218,-79.41675415532114,YYB,North Bay/Jack Garland Airport,"North Bay, Ontario",Canada,31,1669
+51.120751,-114.01057234296194,YYC,Calgary International Airport,"Calgary, Alberta",Canada,780393,61098631
+54.82451285,-127.18542810245555,YYD,Smithers Airport,"Smithers, British Columbia",Canada,6,16
+58.8058057,-122.69809702044094,YYE,Fort Nelson Airport,"Fort Nelson, British Columbia",Canada,1,No info
+49.46431515,-119.60275322075378,YYF,Penticton Airport,"Penticton, British Columbia",Canada,168,1577
+46.285879300000005,-63.131205085761316,YYG,Charlottetown Airport,"Charlottetown, Prince Edward Island",Canada,2295,75562
+56.8638992,-101.075996,YYL,Lynn Lake Airport,"Lynn Lake, Manitoba",Canada,6,258
+50.29086145,-107.69111929779997,YYN,Swift Current Airport,"Swift Current, Saskatchewan",Canada,10,754
+58.7483682,-94.075267,YYQ,Churchill Airport,"Churchill, Manitoba",Canada,12,1267
+47.619738299999995,-52.74791992027517,YYT,St. John's International Airport,"St. John's, Newfoundland and Labrador",Canada,11754,762546
+49.40840675,-82.46398397530788,YYU,Kapuskasing Airport,"Kapuskasing, Ontario",Canada,44,468
+48.6086006,-68.2080994,YYY,Mont-Joli Airport,"Mont-Joli, Quebec",Canada,5,472
+62.457386650000004,-114.44111467626608,YZF,Yellowknife Airport,"Yellowknife, Northwest Territories",Canada,174,7020
+42.998174399999996,-82.30882048716478,YZR,Sarnia Chris Hadfield Airport,"Sarnia, Ontario",Canada,6,56
+50.68186165,-127.36977008238144,YZT,Port Hardy Airport,"Port Hardy, British Columbia",Canada,2489,12878
+50.2233009,-66.2656021,YZV,Sept-Îles Airport,"Sept-Îles, Quebec",Canada,16,227
+44.9844017,-64.9169006,YZX,CFB Greenwood / Greenwood Airport,"Greenwood, Nova Scotia",Canada,2,No info
+44.100174949999996,15.357488127906656,ZAD,Zadar Airport,Zadar,Croatia,2,No info
+45.74027185,16.07231616098094,ZAG,Zagreb Airport (Pleso Airport),Zagreb,Croatia,81,6188
+6.92226375,122.05983240893659,ZAM,Zamboanga International Airport,Zamboanga City,Philippines,6,176
+41.6676807,-1.0437423279666378,ZAZ,Zaragoza Airport,Zaragoza,Spain,175,487
+47.63001475,-65.73576232395344,ZBF,Bathurst Airport,"Bathurst, New Brunswick",Canada,2,5
+45.2894744,-72.74356101361118,ZBM,Bromont (Roland Désourdy) Airport,"Bromont, Quebec",Canada,19,40
+52.1846257,-128.15724204855366,ZEL,Bella Bella (Campbell Island) Airport,"Bella Bella, British Columbia",Canada,13,44
+17.6036076,-101.46199568977451,ZIH,Ixtapa-Zihuatanejo International Airport,"Zihuatanejo, Guerrero",Mexico,47072,4503953
+19.1447539,-104.55803073181045,ZLO,Playa de Oro International Airport,"Manzanillo, Colima",Mexico,19895,1557557
+51.735007249999995,-121.33244427979807,ZMH,South Cariboo Regional Airport,"108 Mile Ranch, British Columbia",Canada,1,5
+54.0258747,-132.1238959748132,ZMT,Masset Airport,"Masset, British Columbia",Canada,5,91
+49.1698302,-123.9351766,ZNA,Nanaimo Harbour Water Airport,"Nanaimo, British Columbia",Canada,1997,8712
+-45.019299950000004,168.74343994415125,ZQN,Queenstown Airport,Queenstown,New Zealand,2,2
+47.4635489,8.553204683227131,ZRH,Zurich Airport,Zürich,Switzerland,251253,45099128
+49.9218048,-126.6534942,ZTS,Tahsis Water Aerodrome,"Tahsis, British Columbia",Canada,14,47
+22.0084784,113.37242495504282,ZUH,Zhuhai Sanzao Airport,"Zhuhai, Guangdong",China,1,258
